@@ -12,6 +12,11 @@ blindage qui varierait selon l'environnement. Il n'existe pas de mécanisme syst
 les copies dupliquées dans les fichiers `*_unit.aps` ne suivent pas les mises à jour de
 `lang.aps`, ce qui produit des divergences bien réelles.
 
+[Le format des descs](docs/format-descs.md) prend la suite : la grammaire des fiches d'unités et
+d'objets — syntaxe, unités de mesure, priorité entre desc principal et desc auxiliaire — et
+l'index des 238 champs. Mis en forme à partir d'un catalogue publié sur le forum
+sudden-strike.ru, crédité en tête du document.
+
 ## `tools/` : outillage actuel (Python 3.8+)
 
 Deux outils sans dépendance, qui ouvrent une interface dans le navigateur et fonctionnent à
