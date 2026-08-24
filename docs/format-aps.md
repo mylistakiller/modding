@@ -145,7 +145,19 @@ Question testée empiriquement en comparant les 15 fiches véhicule communes ent
 
 (`256` est la valeur plafond utilisée ailleurs dans les fiches pour signifier une quasi-immunité à un type de dégât ; `ez2` semble être une liste d'options de production/équipement disponibles pour l'unité.)
 
-**Conclusion** : il n'existe pas de mécanisme systématique de blindage dépendant de l'environnement dans les fichiers de données. L'écart trouvé sur le SdKfz-252 ressemble à une correction isolée faite à la main sur cette unité précise plutôt qu'à une règle de design volontaire — mais il prouve que le mécanisme de redéfinition *existe* et peut être utilisé (volontairement ou par erreur) au niveau des fichiers `*_unit.aps`.
+**Conclusion** : il n'existe pas de mécanisme systématique de blindage dépendant de l'environnement dans les fichiers de données. Les écarts trouvés ressemblent à des corrections/patchs faits à la main plutôt qu'à une règle de design volontaire — mais ils prouvent que le mécanisme de redéfinition *existe* et peut diverger (volontairement ou par erreur) au niveau des fichiers `*_unit.aps`.
+
+### Piège de maintenance confirmé : désynchronisation entre versions de `lang.aps`
+
+En comparant deux versions successives de `lang.aps` du même jeu, un phénomène plus large apparaît : quand `lang.aps` est mis à jour (ex. patch d'équilibrage), **les copies dupliquées dans les 8 fichiers `*_unit.aps` ne sont pas mises à jour automatiquement**. Exemple concret sur 3 unités :
+
+| Unité | Ancien `lang.aps` | Nouveau `lang.aps` | Les 8 fichiers `*_unit.aps` |
+|---|---|---|---|
+| `mun_pz4` | `health 400` | `health 600` | `health 400` (inchangé) |
+| `sdkfz-251` | `health 200` | `health 300` | `health 200` (inchangé) |
+| `sdkfz-252` | `health 200` | `health 300` | `health 200` (inchangé) |
+
+Les 8 fichiers d'environnement sont restés alignés sur l'**ancienne** valeur de `lang.aps`, pas sur la nouvelle — signe que ce sont des copies figées au moment de leur création, jamais resynchronisées lors des patchs suivants. **Pour un modder : toute modification apportée à une unité dans `lang.aps` doit être répercutée manuellement dans chaque `*_unit.aps` qui la duplique**, sous peine de désynchronisation silencieuse.
 
 **Reste non vérifié** : quelle valeur le moteur retient réellement en jeu quand une fiche est dupliquée entre `lang.aps` et un fichier d'environnement (`lang.aps` chargé en premier et écrasé par le fichier d'environnement, ou l'inverse). Par analogie avec le moteur Sudden Strike 2 d'origine documenté (où `lang.sue` écrase `desc_common.sue`), l'hypothèse la plus probable est que le fichier le plus spécifique (environnement) prime — mais seul un test en jeu peut le confirmer avec certitude (ex. modifier une valeur `HP` très visible côté environnement et vérifier si elle s'applique en partie).
 
