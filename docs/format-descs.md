@@ -8,8 +8,7 @@ en donne la grammaire et l'index des champs.
 ## Source
 
 Ce document reprend et met en forme un catalogue publié sur le forum **sudden-strike.ru**
-(*Каталог всех десков юнитов и объектов с описанием*, 26 pages, en russe), retrouvé sous forme
-de page mise en cache par Google. Le mérite du relevé revient à ses auteurs.
+(*Каталог всех десков юнитов и объектов с описанием*, 26 pages, en russe).
 
 Ce qui suit n'est pas une traduction intégrale : c'est la grammaire du format, traduite et
 remise en ordre, plus l'index complet des champs. Les descriptions détaillées, champ par champ,
