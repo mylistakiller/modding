@@ -1,0 +1,212 @@
+Player 0
+ name="Joueur"
+ team=0
+ nation=4
+ color=0 252 80
+ plane bomber
+  ID=ju-87
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=10
+  Bombs=10
+  Reload=0
+ plane transport
+  ID=li-2
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_li-2
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=84
+  expa=0
+  ID 0=gats
+  number 0=10
+  ID 1=dofficer
+  number 1=4
+  ID 2=dguner
+  number 2=15
+  ID 3=dsmguner
+  number 3=15
+ descent 1
+  group=90
+  expa=0
+  ID 0=rsniper
+  number 0=8
+  ID 1=rflamer
+  number 1=5
+  ID 2=rtankist
+  number 2=6
+  ID 3=rguner
+  number 3=13
+ planesdir=7
+Player 1
+ name="Ennemi"
+ team=1
+ nation=0
+ color=248 0 0
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 2
+ name="Allié"
+ team=2
+ nation=0
+ color=248 252 0
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 3
+ name="Neutre"
+ team=3
+ nation=0
+ color=0 2 120
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0

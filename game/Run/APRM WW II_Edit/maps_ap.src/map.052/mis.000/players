@@ -1,0 +1,265 @@
+Player 0
+ name="Player 1"
+ team=0
+ nation=0
+ color=0 252 80
+ plane bomber
+  ID=he-111
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=ju-52
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_ju-52
+  Number=0
+  Bombs=0
+  Reload=30
+ plane interceptor
+  ID=me-262
+  Number=0
+  Bombs=0
+  Reload=5
+ descent 0
+  group=0
+  expa=100
+  ID 0=delite3
+  number 0=5
+  ID 1=dflamer
+  number 1=5
+  ID 2=dsniper
+  number 2=5
+  ID 3=desmguner
+  number 3=5
+ descent 1
+  group=0
+  expa=35
+  ID 0=puppe
+  number 0=2
+  ID 1=dtankist
+  number 1=6
+  ID 2=dmedic
+  number 2=2
+  ID 3=ammo.box
+  number 3=5
+ planesdir=0
+Player 1
+ name="Player 2"
+ team=1
+ nation=0
+ color=248 0 0
+ plane bomber
+  ID=he-111
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=ju-52
+  Number=0
+  Bombs=0
+  Reload=30
+ plane boxer
+  ID=b_ju-52
+  Number=0
+  Bombs=0
+  Reload=30
+ plane interceptor
+  ID=me-262
+  Number=0
+  Bombs=0
+  Reload=5
+ descent 0
+  group=0
+  expa=100
+  ID 0=delite3
+  number 0=5
+  ID 1=desmguner
+  number 1=5
+  ID 2=dflamer
+  number 2=5
+  ID 3=dsniper
+  number 3=5
+ descent 1
+  group=0
+  expa=35
+  ID 0=dtankist
+  number 0=6
+  ID 1=puppe
+  number 1=2
+  ID 2=dmedic
+  number 2=2
+  ID 3=ammo.box
+  number 3=5
+ planesdir=0
+Player 2
+ name="Player 3"
+ team=2
+ nation=2
+ color=248 252 0
+ plane bomber
+  ID=mk-lv.mosquito
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane interceptor
+  ID=hurricane.mk-l
+  Number=0
+  Bombs=0
+  Reload=5
+ descent 0
+  group=0
+  expa=100
+  ID 0=eelite3
+  number 0=5
+  ID 1=eflamer
+  number 1=5
+  ID 2=esniper
+  number 2=5
+  ID 3=eats
+  number 3=5
+ descent 1
+  group=0
+  expa=35
+  ID 0=tetrarch
+  number 0=2
+  ID 1=emedic
+  number 1=2
+  ID 2=atankist
+  number 2=6
+  ID 3=ammo.box
+  number 3=5
+ planesdir=4
+Player 3
+ name="Player 4"
+ team=3
+ nation=3
+ color=0 0 120
+ plane bomber
+  ID=b-17c
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane interceptor
+  ID=hurricane.mk-l
+  Number=0
+  Bombs=0
+  Reload=5
+ descent 0
+  group=0
+  expa=100
+  ID 0=eelite3
+  number 0=5
+  ID 1=eats
+  number 1=5
+  ID 2=esniper
+  number 2=5
+  ID 3=eflamer
+  number 3=5
+ descent 1
+  group=0
+  expa=35
+  ID 0=m22
+  number 0=2
+  ID 1=emedic
+  number 1=2
+  ID 2=etankist
+  number 2=6
+  ID 3=ammo.box
+  number 3=5
+ planesdir=4
+Player 4
+ name="Player 5"
+ team=2
+ nation=0
+ color=0 252 120
+ plane bomber
+  ID=pe-2
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=2
+  Bombs=2
+  Reload=0
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=30
+ plane interceptor
+  ID=hurricane.mk-l
+  Number=0
+  Bombs=0
+  Reload=5
+ descent 0
+  group=0
+  expa=100
+  ID 0=eelite3
+  number 0=5
+  ID 1=eats
+  number 1=5
+  ID 2=esniper
+  number 2=5
+  ID 3=eflamer
+  number 3=5
+ descent 1
+  group=0
+  expa=35
+  ID 0=ammo.box
+  number 0=5
+  ID 1=tetrarch
+  number 1=2
+  ID 2=etankist
+  number 2=6
+  ID 3=amedic
+  number 3=2
+ planesdir=4

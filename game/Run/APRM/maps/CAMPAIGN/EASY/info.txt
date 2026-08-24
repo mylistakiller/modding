@@ -1,0 +1,10 @@
+Russian campaign
+67 0
+German campaign
+52 0
+UK campaign
+70 0
+US campaign
+71 0
+Japanese campaign
+32 0

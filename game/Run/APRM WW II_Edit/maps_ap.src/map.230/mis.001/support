@@ -1,0 +1,254 @@
+flag 3,4,6,9,6
+flag 252,14,16,75,32
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "Renfort USA 1"
+ ID=m13 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=5 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m13 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=5 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sher_arv_1 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=3 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m59203 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 In=2 
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sher_arv_1 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=3 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m59203 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 In=2 
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sher_arv_1 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=3 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m59203 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 In=2 
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=amajor HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=aofficer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=aowebel HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ht-m3_old HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=3 In=10 
+  ID=asniper HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=amedic HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=ahmg HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aflamer HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=amortar HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=bazooka HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=awebel HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ht-m3_old HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=3 In=10 
+  ID=asniper HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=amedic HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=ahmg HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aflamer HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=amortar HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=bazooka HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=awebel HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=greyhound HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=4 In=4 
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sherman_m4a1 HP=100 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0 Crew=5 In=5 
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=aguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Attaque japonais 1"
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jsniper HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jhmg HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jflamer HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jmortar HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=type.04 HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=kamikaze HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=kamikaze HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jwebel HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=jguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+ ID=2597.te-ke HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 Crew=2 In=1 
+  ID=jsmguner HP=0 Ammo=100 Expa=25 Morale=50 Lives=100 Grp=0
+  ID=jtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=jtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=jari HP=100 Ammo=100 Expa=30 Morale=50 Lives=100 Grp=0 
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

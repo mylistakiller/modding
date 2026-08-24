@@ -1,0 +1,265 @@
+Player 0
+ name="Player 1"
+ team=0
+ nation=0
+ color=0 252 80
+ plane bomber
+  ID=ju-87
+  Number=1
+  Bombs=1
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=1
+  Bombs=3
+  Reload=300
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=curtiss.warhawk
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 1
+ name="Player 2"
+ team=1
+ nation=0
+ color=248 0 0
+ plane bomber
+  ID=ju-87
+  Number=1
+  Bombs=1
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=1
+  Bombs=3
+  Reload=300
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=curtiss.warhawk
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 2
+ name="Player 3"
+ team=2
+ nation=0
+ color=248 252 0
+ plane bomber
+  ID=curtiss.b
+  Number=1
+  Bombs=1
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=1
+  Bombs=3
+  Reload=300
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=curtiss.warhawk
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 3
+ name="Player 4"
+ team=3
+ nation=0
+ color=0 0 120
+ plane bomber
+  ID=curtiss.b
+  Number=1
+  Bombs=1
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=1
+  Bombs=3
+  Reload=300
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=curtiss.warhawk
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 4
+ name="Player 5"
+ team=3
+ nation=0
+ color=0 252 120
+ plane bomber
+  ID=il-2b
+  Number=1
+  Bombs=1
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=1
+  Bombs=3
+  Reload=300
+ plane transport
+  ID=c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=curtiss.warhawk
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ descent 1
+  group=0
+  expa=0
+  ID 0=
+  number 0=0
+  ID 1=
+  number 1=0
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0

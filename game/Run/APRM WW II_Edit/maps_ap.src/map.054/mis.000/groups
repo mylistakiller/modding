@@ -1,0 +1,400 @@
+Group 0
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 1
+ ai type="ai_sold_guard" group1=1 group2=1 zone1=4 zone2=4
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse aif_domhide
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 2
+ ai type="ai_sold_guard" group1=2 group2=2 zone1=5 zone2=5
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 3
+ ai type="ai_sold_guard" group1=3 group2=3 zone1=5 zone2=5
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 4
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 5
+ ai type="ai_sold_guard" group1=5 group2=5 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 6
+ ai type="ai_sold_guard" group1=6 group2=6 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 7
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 8
+ ai type="ai_sold_guard" group1=8 group2=8 zone1=6 zone2=6
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 9
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 10
+ ai type="ai_sold_guard" group1=10 group2=10 zone1=5 zone2=5
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 11
+ ai type="ai_sold_guard" group1=11 group2=11 zone1=5 zone2=5
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 12
+ ai type="ai_tank_guard" group1=12 group2=12 zone1=5 zone2=5
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 13
+ ai type="ai_furg_reload" group1=13 group2=13 zone1=5 zone2=5
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 14
+ ai type="ai_sold_guard" group1=14 group2=14 zone1=6 zone2=6
+  aiflags= aif_rndmove aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 15
+ ai type="ai_tank_guard" group1=15 group2=15 zone1=6 zone2=6
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 16
+ ai type="ai_furg_move" group1=16 group2=16 zone1=6 zone2=6
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 17
+ ai type="ai_sold_guard" group1=17 group2=17 zone1=6 zone2=6
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 18
+ ai type="ai_furg_reload" group1=18 group2=18 zone1=6 zone2=6
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 19
+ ai type="ai_furg_move" group1=19 group2=19 zone1=7 zone2=7
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 20
+ ai type="ai_sold_art" group1=20 group2=20 zone1=7 zone2=7
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 21
+ ai type="ai_furg_reload" group1=21 group2=21 zone1=7 zone2=7
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 22
+ ai type="ai_sold_guard" group1=22 group2=22 zone1=7 zone2=7
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 23
+ ai type="ai_furg_move" group1=23 group2=23 zone1=8 zone2=8
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 24
+ ai type="ai_sold_art" group1=24 group2=24 zone1=8 zone2=8
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 25
+ ai type="ai_furg_reload" group1=25 group2=25 zone1=8 zone2=8
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 26
+ ai type="ai_sold_guard" group1=26 group2=26 zone1=8 zone2=8
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 27
+ ai type="ai_tank_guard" group1=27 group2=27 zone1=9 zone2=9
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 28
+ ai type="ai_sold_guard" group1=28 group2=28 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 29
+ ai type="ai_sold_guard" group1=29 group2=29 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 30
+ ai type="ai_sold_guard" group1=30 group2=30 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 31
+ ai type="ai_furg_move" group1=31 group2=31 zone1=9 zone2=9
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 32
+ ai type="ai_furg_reload" group1=32 group2=32 zone1=9 zone2=9
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 33
+ ai type="ai_sold_guard" group1=33 group2=33 zone1=10 zone2=10
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 34
+ ai type="ai_sold_art" group1=34 group2=34 zone1=10 zone2=10
+  aiflags= aif_rndmove aif_atgnotow aif_domnouse aif_gaubnodrop aif_gaubnotow aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 35
+ ai type="ai_sold_guard" group1=35 group2=35 zone1=10 zone2=10
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 36
+ ai type="ai_furg_reload" group1=36 group2=36 zone1=10 zone2=10
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 37
+ ai type="ai_tank_guard" group1=37 group2=37 zone1=10 zone2=10
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 38
+ ai type="ai_sold_guard" group1=38 group2=38 zone1=11 zone2=11
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 39
+ ai type="ai_sold_art" group1=39 group2=39 zone1=11 zone2=11
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 40
+ ai type="ai_sold_guard" group1=40 group2=40 zone1=11 zone2=11
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 41
+ ai type="ai_furg_reload" group1=41 group2=41 zone1=11 zone2=11
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 42
+ ai type="ai_tank_guard" group1=42 group2=42 zone1=11 zone2=11
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 43
+ ai type="ai_sold_guard" group1=43 group2=43 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 44
+ ai type="ai_sold_guard" group1=44 group2=44 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 45
+ ai type="ai_tank_guard" group1=45 group2=45 zone1=12 zone2=12
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 46
+ ai type="ai_furg_move" group1=46 group2=46 zone1=12 zone2=12
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 47
+ ai type="ai_sold_guard" group1=47 group2=47 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 48
+ ai type="ai_furg_reload" group1=48 group2=48 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 49
+ ai type="ai_sold_guard" group1=49 group2=49 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 50
+ ai type="ai_sold_guard" group1=50 group2=50 zone1=12 zone2=12
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 51
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 52
+ ai type="ai_sold_guard" group1=52 group2=52 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 53
+ ai type="ai_sold_guard" group1=53 group2=53 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 54
+ ai type="ai_tank_guard" group1=54 group2=54 zone1=14 zone2=14
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 55
+ ai type="ai_furg_move" group1=55 group2=55 zone1=14 zone2=14
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 56
+ ai type="ai_sold_guard" group1=56 group2=56 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 57
+ ai type="ai_furg_reload" group1=57 group2=57 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 58
+ ai type="ai_furg_move" group1=58 group2=58 zone1=15 zone2=15
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 59
+ ai type="ai_sold_art" group1=59 group2=59 zone1=15 zone2=15
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 60
+ ai type="ai_furg_reload" group1=60 group2=60 zone1=15 zone2=15
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 61
+ ai type="ai_sold_guard" group1=61 group2=61 zone1=15 zone2=15
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 62
+ ai type="ai_sold_guard" group1=62 group2=62 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 63
+ ai type="ai_sold_guard" group1=63 group2=63 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 64
+ ai type="ai_tank_guard" group1=64 group2=64 zone1=16 zone2=16
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 65
+ ai type="ai_furg_move" group1=65 group2=65 zone1=16 zone2=16
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 66
+ ai type="ai_sold_guard" group1=66 group2=66 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 67
+ ai type="ai_furg_reload" group1=67 group2=67 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 68
+ ai type="ai_sold_guard" group1=68 group2=68 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 69
+ ai type="ai_sold_guard" group1=69 group2=69 zone1=16 zone2=16
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 70
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 71
+ ai type="ai_sold_guard" group1=71 group2=71 zone1=13 zone2=13
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 72
+ ai type="ai_sold_art" group1=72 group2=72 zone1=13 zone2=13
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 73
+ ai type="ai_furg_reload" group1=73 group2=73 zone1=13 zone2=13
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 74
+ ai type="ai_sold_guard" group1=74 group2=74 zone1=13 zone2=13
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 75
+ ai type="ai_tank_guard" group1=75 group2=75 zone1=13 zone2=13
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 76
+ ai type="ai_sold_guard" group1=76 group2=76 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 77
+ ai type="ai_sold_guard" group1=77 group2=77 zone1=14 zone2=14
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 78
+ ai type="ai_none" group1=0 group2=0 zone1=0 zone2=0
+  aiflags=
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 79
+ ai type="ai_sold_guard" group1=79 group2=79 zone1=30 zone2=30
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 80
+ ai type="ai_sold_guard" group1=80 group2=80 zone1=17 zone2=17
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 81
+ ai type="ai_sold_guard" group1=81 group2=81 zone1=17 zone2=17
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 82
+ ai type="ai_tank_guard" group1=82 group2=82 zone1=17 zone2=17
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 83
+ ai type="ai_furg_move" group1=83 group2=83 zone1=17 zone2=17
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 84
+ ai type="ai_sold_guard" group1=84 group2=84 zone1=17 zone2=17
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 85
+ ai type="ai_furg_reload" group1=85 group2=85 zone1=17 zone2=17
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 86
+ ai type="ai_sold_guard" group1=86 group2=86 zone1=18 zone2=18
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 87
+ ai type="ai_sold_guard" group1=87 group2=87 zone1=18 zone2=18
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 88
+ ai type="ai_tank_guard" group1=88 group2=88 zone1=18 zone2=18
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 89
+ ai type="ai_sold_guard" group1=89 group2=89 zone1=19 zone2=19
+  aiflags= aif_rndmove aif_domnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 90
+ ai type="ai_sold_guard" group1=90 group2=90 zone1=19 zone2=19
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 91
+ ai type="ai_sold_guard" group1=91 group2=91 zone1=19 zone2=19
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 92
+ ai type="ai_furg_reload" group1=92 group2=92 zone1=19 zone2=19
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 93
+ ai type="ai_sold_guard" group1=93 group2=93 zone1=21 zone2=21
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse aif_domhide
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 94
+ ai type="ai_sold_guard" group1=94 group2=94 zone1=20 zone2=20
+  aiflags= aif_rndmove aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 95
+ ai type="ai_sold_guard" group1=95 group2=95 zone1=20 zone2=20
+  aiflags= aif_rndmove aif_atgnouse aif_gaubnouse aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 96
+ ai type="ai_tank_guard" group1=96 group2=96 zone1=20 zone2=20
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 97
+ ai type="ai_sold_guard" group1=97 group2=97 zone1=20 zone2=20
+  aiflags= aif_rndmove aif_domnouse aif_gaubnodrop aif_atgnodrop aif_ezdnouse
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 98
+ ai type="ai_furg_reload" group1=98 group2=98 zone1=20 zone2=20
+  aiflags= aif_rndmove aif_zrestrict
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50
+Group 99
+ ai type="ai_tank_guard" group1=99 group2=99 zone1=22 zone2=22
+  aiflags= aif_rndmove
+ reserv auto=0 delay=0 min=0 force=0 atime=0 flag=0 zone=0 hp=100 ammo=100 expa=0 morale=50

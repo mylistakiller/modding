@@ -1,0 +1,72 @@
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1848 V=1112 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2136 V=1048 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2536 V=2936 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2024 V=3240 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2920 V=1144 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1256 V=2840 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=408 V=3240 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=728 V=3288 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=344 V=3048 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1416 V=3784 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3160 V=3032 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3640 V=3016 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3480 V=3112 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3496 V=3560 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3576 V=904 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3784 V=984 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3560 V=1144 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3224 V=984 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2888 V=344 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1080 V=600 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=888 V=1192 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=584 V=920 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=920 V=808 Dir=0 Owner=3 
+ ID=8cm.mortar HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=848 V=880 Dir=23 Owner=3 
+ ID=chaffee HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2032 V=2960 Dir=24 Owner=3 
+ ID=chaffee HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2064 V=1104 Dir=8 Owner=3 
+ ID=2597.sinkhoto HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1904 V=1072 Dir=14 Owner=3 
+ ID=2597.sinkhoto HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2192 V=2960 Dir=27 Owner=3 
+ ID=type_88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2864 V=336 Dir=8 Owner=3 
+ ID=m13 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2576 V=336 Dir=8 Owner=3 
+ ID=m13 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1648 V=3888 Dir=24 Owner=3 
+ ID=m5ami HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3664 V=752 Dir=0 Owner=3 
+ ID=m5ami HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=400 V=3472 Dir=0 Owner=3 
+ ID=ss HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=368 V=3376 Dir=0 Owner=3 
+ ID=ss HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3664 V=784 Dir=0 Owner=3 
+ ID=type.94 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3792 V=720 Dir=8 Owner=3 
+ ID=type.94 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=496 V=1008 Dir=8 Owner=3 
+ ID=type.94 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3664 V=3472 Dir=29 Owner=3 
+ ID=type.94 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=400 V=3152 Dir=20 Owner=3 
+ ID=ss HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3600 V=3536 Dir=20 Owner=3 
+ ID=ss HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=976 V=1104 Dir=24 Owner=3 
+ ID=m5ami HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=976 V=944 Dir=28 Owner=3 
+ ID=m5ami HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3568 V=3120 Dir=22 Owner=3 
+ ID=kurogan HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=752 V=3088 Dir=22 Owner=3 
+ ID=kurogan HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3120 V=3152 Dir=22 Owner=3 
+ ID=kurogan HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=624 V=784 Dir=5 Owner=3 
+ ID=kurogan HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3632 V=944 Dir=5 Owner=3 
+ ID=gmc.353.med HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3568 V=752 Dir=5 Owner=3 
+ ID=gmc.353.med HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=624 V=624 Dir=13 Owner=3 
+ ID=gmc.353.med HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3184 V=3248 Dir=24 Owner=3 
+ ID=gmc.353.med HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=528 V=3088 Dir=24 Owner=3 
+ ID=m13 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=496 V=3280 Dir=24 Owner=3 
+ ID=m13 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3504 V=3376 Dir=24 Owner=3 
+ ID=m13 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3184 V=688 Dir=6 Owner=3 
+ ID=m13 HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=624 V=848 Dir=6 Owner=3 
+ ID=greyhound HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=752 V=848 Dir=6 Owner=3 
+ ID=greyhound HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3536 V=944 Dir=6 Owner=3 
+ ID=greyhound HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3472 V=3248 Dir=22 Owner=3 
+ ID=greyhound HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=816 V=3216 Dir=22 Owner=3 
+ ID=sherman.lll HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=624 V=3184 Dir=27 Owner=3 
+ ID=sherman.lll HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3280 V=3184 Dir=27 Owner=3 
+ ID=sherman.lll HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=784 V=976 Dir=7 Owner=3 
+ ID=sherman.lll HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3184 V=816 Dir=11 Owner=3 
+ ID=77fieldgun HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=976 V=1296 Dir=7 Owner=3 
+ ID=77fieldgun HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2896 V=1168 Dir=7 Owner=3 
+ ID=77fieldgun HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3728 V=2768 Dir=23 Owner=3 
+ ID=77fieldgun HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1296 V=2864 Dir=23 Owner=3 
+ ID=75mount HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2544 V=2896 Dir=23 Owner=3 
+ ID=75mount HP=35 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1840 V=1136 Dir=3 Owner=3 
+ ID=81.jap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1264 V=2896 Dir=3 Owner=3 
+ ID=81.jap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=2960 V=1072 Dir=3 Owner=3 
+ ID=type_88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1360 V=3792 Dir=26 Owner=0 

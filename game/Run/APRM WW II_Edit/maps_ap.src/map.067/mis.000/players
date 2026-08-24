@@ -1,0 +1,265 @@
+Player 0
+ name="Player 1"
+ team=0
+ nation=0
+ color=0 252 80
+ plane bomber
+  ID=he-111
+  Number=7
+  Bombs=7
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=5
+  Bombs=5
+  Reload=0
+ plane transport
+  ID=ju-52
+  Number=5
+  Bombs=5
+  Reload=0
+ plane boxer
+  ID=b_ju-52
+  Number=5
+  Bombs=5
+  Reload=0
+ plane interceptor
+  ID=fw-190
+  Number=5
+  Bombs=5
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=dofficer
+  number 0=5
+  ID 1=gats
+  number 1=5
+  ID 2=eminer
+  number 2=5
+  ID 3=sniper
+  number 3=5
+ descent 1
+  group=0
+  expa=0
+  ID 0=88mmflak
+  number 0=1
+  ID 1=pak40
+  number 1=1
+  ID 2=pak40
+  number 2=1
+  ID 3=pak40
+  number 3=1
+ planesdir=0
+Player 1
+ name="Player 2"
+ team=1
+ nation=0
+ color=248 0 0
+ plane bomber
+  ID=g-3m
+  Number=7
+  Bombs=7
+  Reload=0
+ plane spy
+  ID=ki-76
+  Number=5
+  Bombs=5
+  Reload=0
+ plane transport
+  ID=c47j
+  Number=5
+  Bombs=5
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=5
+  Bombs=5
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=5
+  Bombs=5
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=jofficer
+  number 0=5
+  ID 1=jats
+  number 1=5
+  ID 2=eminer
+  number 2=5
+  ID 3=sniper
+  number 3=5
+ descent 1
+  group=0
+  expa=0
+  ID 0=type.88
+  number 0=1
+  ID 1=77fieldgun
+  number 1=1
+  ID 2=77fieldgun
+  number 2=1
+  ID 3=77fieldgun
+  number 3=1
+ planesdir=2
+Player 2
+ name="Player 3"
+ team=2
+ nation=0
+ color=248 252 0
+ plane bomber
+  ID=mk-lv.mosquito
+  Number=7
+  Bombs=7
+  Reload=0
+ plane spy
+  ID=audax
+  Number=5
+  Bombs=5
+  Reload=0
+ plane transport
+  ID=c47b
+  Number=5
+  Bombs=5
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=5
+  Bombs=5
+  Reload=0
+ plane interceptor
+  ID=hurricane.mk-l
+  Number=5
+  Bombs=5
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=eofficer
+  number 0=5
+  ID 1=bazooka
+  number 1=5
+  ID 2=eminer
+  number 2=5
+  ID 3=sniper
+  number 3=5
+ descent 1
+  group=0
+  expa=0
+  ID 0=type.88
+  number 0=1
+  ID 1=m3a1
+  number 1=1
+  ID 2=m3a1
+  number 2=1
+  ID 3=m3a1
+  number 3=1
+ planesdir=7
+Player 3
+ name="Player 4"
+ team=3
+ nation=0
+ color=0 2 120
+ plane bomber
+  ID=b-17c
+  Number=7
+  Bombs=7
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=5
+  Bombs=5
+  Reload=0
+ plane transport
+  ID=c47
+  Number=5
+  Bombs=5
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=5
+  Bombs=5
+  Reload=0
+ plane interceptor
+  ID=p-51
+  Number=5
+  Bombs=5
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=aofficer
+  number 0=5
+  ID 1=bazooka
+  number 1=5
+  ID 2=eminer
+  number 2=5
+  ID 3=sniper
+  number 3=5
+ descent 1
+  group=0
+  expa=0
+  ID 0=type.88
+  number 0=1
+  ID 1=m3a1
+  number 1=1
+  ID 2=m3a1
+  number 2=1
+  ID 3=m3a1
+  number 3=1
+ planesdir=3
+Player 4
+ name="Player 5"
+ team=3
+ nation=0
+ color=0 254 120
+ plane bomber
+  ID=pe-2
+  Number=7
+  Bombs=7
+  Reload=0
+ plane spy
+  ID=i-153
+  Number=5
+  Bombs=5
+  Reload=0
+ plane transport
+  ID=li-2
+  Number=5
+  Bombs=5
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=5
+  Bombs=5
+  Reload=0
+ plane interceptor
+  ID=jak-3
+  Number=5
+  Bombs=5
+  Reload=0
+ descent 0
+  group=0
+  expa=0
+  ID 0=rofficer
+  number 0=5
+  ID 1=rats
+  number 1=5
+  ID 2=eminer
+  number 2=5
+  ID 3=sniper
+  number 3=5
+ descent 1
+  group=0
+  expa=0
+  ID 0=52-k
+  number 0=1
+  ID 1=zis-3
+  number 1=1
+  ID 2=zis-3
+  number 2=1
+  ID 3=zis-3
+  number 3=1
+ planesdir=5

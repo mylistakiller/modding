@@ -1,0 +1,322 @@
+ ID=17p HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=32 U=528 V=1392 Dir=1 Owner=0 
+ ID=17p HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=32 U=528 V=1424 Dir=2 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2360 V=2360 Dir=2 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2392 V=2360 Dir=2 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=1048 V=936 Dir=0 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=1048 V=1032 Dir=0 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=616 V=1528 Dir=2 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=536 V=1528 Dir=2 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2376 V=3016 Dir=1 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2200 V=840 Dir=0 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=904 V=392 Dir=3 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=872 V=408 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=840 V=424 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=856 V=424 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=936 V=456 Dir=3 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=904 V=472 Dir=4 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=904 V=440 Dir=4 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=904 V=424 Dir=3 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2120 V=2632 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2232 V=2632 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2040 V=2488 Dir=1 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2920 V=2456 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=3000 V=2392 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2984 V=2392 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2392 V=888 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2408 V=1064 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2392 V=1080 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2472 V=888 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=3192 V=2408 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=3160 V=2408 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2072 V=2472 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1336 V=424 Dir=1 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1288 V=360 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1336 V=376 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1320 V=376 Dir=1 Owner=0 
+ ID=105-mle HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1296 V=432 Dir=0 Owner=0 
+ ID=105-mle HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=16 U=1296 V=400 Dir=1 Owner=0 
+ ID=105-mle HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=15 U=1008 V=1328 Dir=8 Owner=0 
+ ID=sher_arv_1 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=16 Crew=3 U=1040 V=1200 Dir=8 Owner=0 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fwebel HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2424 V=936 Dir=7 Owner=0 
+ ID=fowebel HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=2424 V=920 Dir=0 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=296 V=1736 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=728 V=648 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=712 V=648 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=3624 V=2056 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=696 V=648 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=680 V=648 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=712 V=632 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=728 V=632 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=696 V=632 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=680 V=632 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1352 V=1048 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1352 V=1080 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1272 V=1048 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1304 V=1064 Dir=0 Owner=0 
+ ID=r-35 HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=23 Crew=2 U=1296 V=2288 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=r-35 HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=23 Crew=2 U=1296 V=2352 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=r-35 HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=23 Crew=2 U=2416 V=1328 Dir=30 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=r-35 HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=23 Crew=2 U=2352 V=1456 Dir=1 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=stude_6 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 Crew=1 U=848 V=272 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=stude_6 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 Crew=1 U=752 V=368 Dir=9 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc_brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 Crew=2 U=2256 V=1488 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc_brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 Crew=2 U=1136 V=528 Dir=6 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc_brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 Crew=2 U=1104 V=528 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=1200 V=400 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=2928 V=752 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=3696 V=3440 Dir=16 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=368 V=2768 Dir=24 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 U=1656 V=1464 Dir=0 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 U=1656 V=1480 Dir=1 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 U=1624 V=1496 Dir=0 Owner=0 
+ ID=char.ruhr HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 Crew=4 U=1616 V=1456 Dir=24 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=char.ruhr HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 Crew=4 U=2320 V=1424 Dir=31 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=char.ruhr HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 Crew=4 U=3056 V=2352 Dir=5 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=char.ruhr HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=30 Crew=4 U=1392 V=2416 Dir=10 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=b-m4 HP=10 Ammo=0 Expa=80 Morale=50 Lives=0 Grp=33 Crew=2 U=1328 V=1296 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=b-m4 HP=10 Ammo=0 Expa=80 Morale=50 Lives=0 Grp=33 Crew=2 U=1360 V=1360 Dir=29 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=1080 V=472 Dir=1 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=1128 V=456 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=1112 V=456 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=1064 V=520 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=2280 V=1512 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=12 U=2264 V=1528 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=264 V=1112 Dir=4 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=264 V=1128 Dir=5 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2472 V=3000 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=2568 V=3000 Dir=3 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1224 V=2456 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1336 V=2536 Dir=3 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=424 V=664 Dir=7 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=472 V=744 Dir=6 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=808 V=1576 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=728 V=1576 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1304 V=1048 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1320 V=1032 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1384 V=1032 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=21 U=1416 V=1048 Dir=3 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=15 U=728 V=808 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=15 U=680 V=840 Dir=1 Owner=0 
+ ID=bishop HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=15 Crew=2 U=688 V=816 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=25 U=1320 V=504 Dir=0 Owner=0 
+ ID=matilda_crab HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=25 Crew=2 U=1296 V=528 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=1240 V=456 Dir=1 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=1240 V=440 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1304 V=1352 Dir=0 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1368 V=1288 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1192 V=1288 Dir=0 Owner=0 
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=240 V=1488 Dir=15 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=240 V=784 Dir=16 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=912 V=2320 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=1552 V=2544 Dir=9 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=1872 V=2544 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=2384 V=2544 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=2512 V=976 Dir=31 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=f_bofor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=18 In=2 U=2512 V=1392 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=eari HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=10 U=1480 V=1720 Dir=0 Owner=0 
+ ID=humber.agit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=31 Crew=1 U=1520 V=1776 Dir=24 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=humber.agit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=31 Crew=1 U=1488 V=1776 Dir=26 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fwebel HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=792 V=264 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=25 U=1352 V=520 Dir=2 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2472 V=1224 Dir=1 Owner=0 
+ ID=fatg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2472 V=1240 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1480 V=920 Dir=7 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=1480 V=904 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=360 V=1736 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=3624 V=2040 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=2696 V=2600 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=2712 V=2600 Dir=3 Owner=0 
+ ID=fari HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1048 V=1320 Dir=2 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=2936 V=696 Dir=1 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=2952 V=680 Dir=2 Owner=0 
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 In=2 U=2288 V=1584 Dir=7 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 In=2 U=2224 V=1584 Dir=7 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 In=2 U=2192 V=1584 Dir=7 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 In=2 U=2128 V=1584 Dir=7 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1048 V=1272 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=968 V=1304 Dir=1 Owner=0 
+ ID=105-mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=15 In=2 U=3056 V=656 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fmortar HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2520 V=1112 Dir=0 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2520 V=1160 Dir=0 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=0 Grp=21 U=2488 V=3048 Dir=2 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=30 Morale=50 Lives=0 Grp=21 U=2456 V=3016 Dir=2 Owner=0 
+ ID=fofficer HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=24 U=808 V=1288 Dir=2 Owner=0 
+ ID=fwebel HP=100 Ammo=100 Expa=60 Morale=50 Lives=0 Grp=24 U=1624 V=1752 Dir=2 Owner=0 
+ ID=fmajor HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=24 U=1656 V=1784 Dir=2 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1272 V=1464 Dir=0 Owner=0 
+ ID=fwebel HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1320 V=2504 Dir=2 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=3192 V=584 Dir=1 Owner=0 
+ ID=hotchkiss HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=17 In=2 U=1168 V=2320 Dir=6 Owner=0 
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hotchkiss HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=17 In=2 U=3056 V=2448 Dir=8 Owner=0 
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hotchkiss HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=17 In=2 U=3056 V=560 Dir=29 Owner=0 
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hotchkiss HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=17 In=2 U=2384 V=2832 Dir=9 Owner=0 
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fsniper HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2536 V=2840 Dir=3 Owner=0 
+ ID=fsniper HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2520 V=2840 Dir=2 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=3672 V=3496 Dir=4 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=3672 V=3480 Dir=3 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=2248 V=1576 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=2152 V=1576 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1096 V=408 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1096 V=424 Dir=0 Owner=0 
+ ID=sher_arv_1 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=16 Crew=3 U=2992 V=528 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=spare.parts HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1272 V=1448 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1272 V=1432 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1096 V=392 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1128 V=424 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1128 V=408 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1128 V=392 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=392 V=2760 Dir=2 Owner=0 
+ ID=wyllis.mb.f HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=16 Crew=1 U=2352 V=2256 Dir=13 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=3688 V=3464 Dir=0 Owner=0 
+ ID=fari HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2200 V=1544 Dir=2 Owner=0 
+ ID=fari HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=3016 V=632 Dir=2 Owner=0 
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=392 V=2744 Dir=7 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=264 V=1768 Dir=2 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2392 V=2264 Dir=2 Owner=0 
+ ID=fowebel HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=2344 V=2296 Dir=2 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=3048 V=616 Dir=0 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=824 V=1256 Dir=2 Owner=0 
+ ID=wyllis.mb.f HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=16 Crew=1 U=784 V=1232 Dir=8 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=model.93 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=16 Crew=1 U=1648 V=1744 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hotchkiss HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=17 In=2 U=1200 V=208 Dir=26 Owner=0 
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fsmguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=1000 V=1288 Dir=4 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=13 U=2920 V=712 Dir=4 Owner=0 
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=2512 V=2992 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fminer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=20 U=408 V=2696 Dir=1 Owner=0 
+ ID=fflamer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1176 V=1048 Dir=0 Owner=0 
+ ID=fflamer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1176 V=1032 Dir=1 Owner=0 
+ ID=aa_e3 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=19 In=2 U=848 V=1360 Dir=7 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=aa_e3 HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=19 In=2 U=848 V=944 Dir=27 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=stude HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=784 V=1040 Dir=26 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=gmc.brit HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=1328 V=1488 Dir=24 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=792 V=312 Dir=1 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=776 V=328 Dir=0 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=744 V=232 Dir=2 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=728 V=296 Dir=1 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=568 V=1704 Dir=1 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=2328 V=2312 Dir=0 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=584 V=1704 Dir=2 Owner=0 
+ ID=fmedic HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=11 U=2360 V=2296 Dir=2 Owner=0 
+ ID=eofficer HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=10 U=1672 V=1784 Dir=3 Owner=0 
+ ID=ewebel HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=10 U=1496 V=1704 Dir=1 Owner=0 
+ ID=ehmg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=10 U=1544 V=1736 Dir=1 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=3240 V=1800 Dir=7 Owner=0 
+ ID=fguner HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=21 U=3240 V=1784 Dir=0 Owner=0 
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=528 V=1104 Dir=0 Owner=0 
+ ID=81.mle HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=528 V=1072 Dir=0 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=552 V=1064 Dir=1 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=568 V=1048 Dir=2 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=568 V=1128 Dir=0 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=22 U=568 V=1112 Dir=0 Owner=0 
+ ID=fhmg HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=1656 V=1704 Dir=2 Owner=0 
+ ID=dingo.jeep HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=31 Crew=2 U=1456 V=1840 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dingo.jeep HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=31 Crew=2 U=1456 V=1872 Dir=0 Owner=0 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fmortar HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=264 V=1256 Dir=4 Owner=0 
+ ID=fmortar HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=24 U=264 V=984 Dir=4 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1176 V=1256 Dir=0 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1192 V=1240 Dir=1 Owner=0 
+ ID=ftankist HP=100 Ammo=100 Expa=80 Morale=50 Lives=0 Grp=33 U=1208 V=1240 Dir=1 Owner=0 
+ ID=stude HP=100 Ammo=100 Expa=50 Morale=50 Lives=0 Grp=14 Crew=1 U=784 V=976 Dir=0 Owner=0 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1

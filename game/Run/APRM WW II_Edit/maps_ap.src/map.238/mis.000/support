@@ -1,0 +1,227 @@
+flag 3,29,10,11,33
+flag 252,27,10,245,31
+flag 3,138,8,11,142
+flag 252,97,10,245,100
+flag 3,207,10,12,212
+flag 252,232,8,246,235
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "1-Francais"
+ ID=lafti_l HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=8 
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fsniper HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fmedic HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fhmg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fflamer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fatg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fowebel HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=type.01 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 In=2 
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+ ID=lafti_l HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=8 
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fsniper HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fmedic HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fhmg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fflamer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fatg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fowebel HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=type.01 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 In=2 
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+ ID=f_sub HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=4 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=fcm36 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=2 
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=laffly_spg HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=3 
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=ftankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "1-Allemand"
+ ID=faun_ver HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=8 
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dsniper HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dmedic HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dhmg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dflamer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=gats HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dowebel HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pak35-36 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=faun_ver HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=8 
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dsniper HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dmedic HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dhmg HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dflamer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=gats HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dowebel HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pak35-36 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 In=2 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=maultier_v HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=4 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pzkpfw.l HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=3 
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.250_10 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=4 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "2-Francais "
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

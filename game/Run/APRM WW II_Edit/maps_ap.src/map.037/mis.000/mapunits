@@ -1,0 +1,50 @@
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7152 V=1136 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7184 V=6960 Dir=0 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7088 V=6992 Dir=0 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=6992 V=1136 Dir=0 Owner=3 
+ ID=i-153 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7504 V=528 Dir=8 Owner=3 
+ ID=i-153 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7888 V=7088 Dir=8 Owner=3 
+ ID=la-5 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7568 V=7056 Dir=8 Owner=3 
+ ID=la-5 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7792 V=560 Dir=8 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=392 V=5112 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=200 V=2104 Dir=0 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4912 V=3248 Dir=8 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4976 V=3248 Dir=8 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=5040 V=3248 Dir=8 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4880 V=5456 Dir=0 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4880 V=5424 Dir=0 Owner=3 
+ ID=t-34-85 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4880 V=5392 Dir=0 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=368 V=5104 Dir=23 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=176 V=2096 Dir=8 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7312 V=368 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7216 V=496 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7152 V=7792 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7152 V=7728 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7512 V=3144 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7576 V=3160 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7672 V=3160 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7736 V=3160 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7560 V=5208 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7656 V=5208 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7880 V=5208 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7784 V=5208 Dir=0 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7856 V=5200 Dir=24 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7760 V=5200 Dir=24 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7632 V=5200 Dir=24 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7536 V=5200 Dir=24 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7536 V=3152 Dir=8 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7600 V=3152 Dir=8 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7696 V=3152 Dir=8 Owner=3 
+ ID=zis-3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7760 V=3152 Dir=8 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7568 V=1456 Dir=8 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7472 V=6544 Dir=24 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7696 V=6416 Dir=24 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7920 V=1648 Dir=9 Owner=3 
+ ID=il-2b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7568 V=7600 Dir=24 Owner=3 
+ ID=il-2b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7888 V=7696 Dir=24 Owner=3 
+ ID=il-2b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7472 V=1008 Dir=24 Owner=3 
+ ID=il-2b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7792 V=1008 Dir=24 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=976 V=1360 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=912 V=1392 Dir=0 Owner=3 
+ ID=t-90 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1808 V=6896 Dir=0 Owner=3 
+ ID=52-k HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1808 V=6832 Dir=0 Owner=3 

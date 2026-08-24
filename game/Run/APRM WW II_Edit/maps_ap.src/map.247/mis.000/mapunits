@@ -1,0 +1,13 @@
+ ID=ford_mt HP=100 Ammo=100 Expa=0 Morale=50 Lives=30 Grp=0 Crew=0 U=5392 V=6032 Dir=30 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=6768 V=7280 Dir=24 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7312 V=7472 Dir=24 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=6224 V=7376 Dir=24 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=5936 V=7440 Dir=24 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=2320 V=496 Dir=4 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=2096 V=624 Dir=4 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=1744 V=752 Dir=4 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=1360 V=816 Dir=4 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=976 V=784 Dir=4 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7120 V=7344 Dir=26 Owner=3 
+ ID=maultier HP=100 Ammo=100 Expa=0 Morale=0 Lives=40 Grp=0 Crew=0 U=4016 V=4112 Dir=0 Owner=3 
+ ID=maultier.med HP=100 Ammo=100 Expa=0 Morale=0 Lives=40 Grp=0 Crew=0 U=4272 V=4336 Dir=29 Owner=3 

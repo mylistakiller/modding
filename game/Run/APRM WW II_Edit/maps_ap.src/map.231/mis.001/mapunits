@@ -1,0 +1,23 @@
+ ID=pzkpfw.l HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 U=2896 V=2000 Dir=11 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pak44 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 In=2 U=2800 V=1968 Dir=11 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=3048 V=2024 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=3032 V=2056 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=3064 V=2072 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2840 V=1864 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2856 V=1896 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2744 V=1880 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2744 V=1864 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2776 V=1896 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2744 V=2008 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2744 V=1992 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2760 V=2024 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2696 V=1944 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2696 V=1960 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2680 V=1944 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2888 V=2056 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2904 V=2072 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 U=2872 V=2056 Dir=2 Owner=0 

@@ -40,12 +40,26 @@ fournie ici** : ce sont des données du jeu, à extraire de votre propre install
 l'APS Tool. `unites-hs.txt` et `unites-rw.txt` donnent les listes de noms d'unités
 correspondantes.
 
+## `game/` — l'installation de référence
+
+Copie de l'installation **Hidden Stroke II 4.21** (`Misc/`, `Run/`), conservée ici comme
+référence pour la rétro-ingénierie : c'est sur ces fichiers que la documentation du format
+`.aps` a été établie, et l'outillage a besoin d'eux pour être exercé.
+
+`SOUNDAP.RUS` (373 Mo) n'y est **pas** : GitHub refuse tout fichier de plus de 100 Mo.
+L'installation n'est donc pas complète — récupérez ce fichier depuis votre propre copie du
+jeu si vous voulez la reconstituer.
+
+> **Dépôt privé, à garder privé.** `game/` contient les assets du jeu — graphismes, sons,
+> cartes, données d'unités. Ce sont des œuvres publiées par CDV et leurs auteurs ; les
+> conserver ici relève de l'archivage personnel d'une copie légitime, pas de la
+> redistribution. Rendre ce dépôt public en ferait une redistribution.
+
 ## Ce que ce dépôt ne contient pas
 
-- **Aucun asset du jeu** : ni sprite, ni son, ni palette, ni fiche d'unité décompilée.
-  Seulement la description des formats et de courts extraits illustratifs.
-- **Aucun binaire tiers** : `SUE.EXE` / `UNSUE.EXE` et les autres outils communautaires
-  historiques appartiennent à leurs auteurs et se récupèrent auprès d'eux.
+- **Aucun binaire tiers d'outillage** : `SUE.EXE` / `UNSUE.EXE` et les autres outils
+  communautaires historiques appartiennent à leurs auteurs et se récupèrent auprès d'eux.
+- **`SOUNDAP.RUS`**, écarté pour raison de taille (voir ci-dessus).
 
 La rétro-ingénierie documentée ici a été faite à partir d'une installation légitime du jeu,
 à fin d'interopérabilité et de documentation communautaire.

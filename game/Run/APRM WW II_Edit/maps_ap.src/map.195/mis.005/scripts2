@@ -1,0 +1,27 @@
+script "début" size 124
+$mist
+$END
+!
+$etc
+$\\n
+$sres
+$resv
+#3
+$sres1
+$resv
+#3
+$sres2
+$resv
+#3
+$sres3
+$resv
+#3
+$sres4
+$resv
+#3
+$sres5
+$T
+#
+$\\n
+$END
+

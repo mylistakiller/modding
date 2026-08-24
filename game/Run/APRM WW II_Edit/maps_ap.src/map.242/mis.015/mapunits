@@ -1,0 +1,51 @@
+ ID=ferdinand HP=100 Ammo=0 Expa=0 Morale=50 Lives=30 Grp=0 Crew=6 U=5904 V=752 Dir=6 Owner=3 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ferdinand HP=100 Ammo=0 Expa=0 Morale=50 Lives=30 Grp=0 Crew=6 U=976 V=7696 Dir=28 Owner=3 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.8.flak HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=1200 V=7824 Dir=25 Owner=3 
+ ID=sdkfz.8.flak HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=1136 V=7824 Dir=25 Owner=3 
+ ID=char.ruhr HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=1200 V=7952 Dir=25 Owner=3 
+ ID=d2 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=1040 V=7952 Dir=28 Owner=3 
+ ID=d2 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=5808 V=944 Dir=26 Owner=3 
+ ID=s35 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=5648 V=880 Dir=0 Owner=3 
+ ID=s35 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=1040 V=7888 Dir=0 Owner=3 
+ ID=b1 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=5744 V=816 Dir=5 Owner=3 
+ ID=b1 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=1040 V=7792 Dir=0 Owner=3 
+ ID=sdkfz.8.flak HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5872 V=944 Dir=27 Owner=3 
+ ID=lafti_l HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=5616 V=5008 Dir=19 Owner=3 
+ ID=lafti_l HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=6576 V=4688 Dir=16 Owner=3 
+ ID=lafti_l HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=6576 V=4720 Dir=16 Owner=3 
+ ID=sdkfz.8.flak HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=5936 V=944 Dir=27 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=5648 V=496 Dir=29 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=5648 V=560 Dir=29 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=5648 V=624 Dir=29 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=1200 V=7696 Dir=29 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=1136 V=7696 Dir=29 Owner=3 
+ ID=37mmflak HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=1072 V=7696 Dir=29 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5520 V=592 Dir=23 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5552 V=6096 Dir=23 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5488 V=6160 Dir=19 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=6320 V=4752 Dir=0 Owner=3 
+ ID=horch HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=6320 V=4720 Dir=0 Owner=3 
+ ID=vwcubel.jeep HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=6320 V=4688 Dir=0 Owner=3 
+ ID=char.ruhr HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=5648 V=784 Dir=31 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=5552 V=976 Dir=6 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=5712 V=944 Dir=6 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=1168 V=7472 Dir=23 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=1008 V=7440 Dir=23 Owner=3 
+ ID=pan.178 HP=100 Ammo=0 Expa=0 Morale=50 Lives=45 Grp=0 Crew=0 U=5584 V=560 Dir=27 Owner=3 
+ ID=pan.178 HP=100 Ammo=0 Expa=0 Morale=50 Lives=45 Grp=0 Crew=0 U=1136 V=7952 Dir=27 Owner=3 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5584 V=5264 Dir=10 Owner=3 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=5616 V=5264 Dir=10 Owner=3 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=6576 V=4752 Dir=16 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=25 Grp=0 Crew=0 U=1264 V=4432 Dir=26 Owner=3 

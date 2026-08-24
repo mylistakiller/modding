@@ -1,0 +1,424 @@
+flag 19,380,16,24,371
+flag 22,3,16,29,9
+flag 166,380,16,171,372
+flag 204,3,10,209,10
+flag 3,192,3,7,192
+flag 138,3,9,143,6
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "GB Final"
+ ID=sherman_hvss HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=5 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sherman_hvss HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=5 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sherman_hvss HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=5 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sherman_hvss HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=5 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sherman_hvss HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=5 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pershing HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=6 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pershing HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=6 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=calliope HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=3 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=calliope HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=3 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hellcat HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=3 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=hellcat HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=5 In=3 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m5ami HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=4 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=m5ami HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 Crew=4 
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=greyhound HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=4 In=4 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=greyhound HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=4 In=4 
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=aguner HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=atankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "USA-1 -résistance"
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fsniper HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fmedic HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fminer HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fhmg HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fflamer HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fatg HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=felite2 HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=felite2 HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=felite HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=felite HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fwebel HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fowebel HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fsmguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=fsmguner HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 
+ ID=hotchkiss HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 In=2 
+  ID=fguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=81.mle HP=100 Ammo=45 Expa=10 Morale=50 Lives=100 Grp=0 In=2 
+  ID=fguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=fguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "GB-1- commando"
+ ID=humber.agit HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=2 
+  ID=eowebel HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=ewebel HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dingo.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=eelite3 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=piat HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=eelite2 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=eelite3 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=piat HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=eelite2 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=eelite3 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=piat HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=eelite2 HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=ehmg HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=emedic HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=esniper HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=ehmg HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=emedic HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=esniper HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+ ID=wyllis.mb.jeep HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=3 
+  ID=eminer HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=eminer HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=eminer HP=100 Ammo=100 Expa=25 Morale=-1 Lives=100 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=50 Morale=-1 Lives=100 Grp=-1
+end
+support "German-SS"
+ ID=ford_mt HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=6 
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ford_mt HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=6 
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=zundapp.ks750 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=kubel_mg34 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=2 
+  ID=dofficer HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite3 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=faun_ver HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=1 In=10 
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=zundapp.ks750 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=2 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=sdkfz.250_1 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 Crew=2 In=4 
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Renfort bidon 1-GB"
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+ ID=fguner HP=100 Ammo=20 Expa=10 Morale=50 Lives=0 Grp=0 
+end
+support "Renfort 1-SS bidon"
+ ID=ford_mt HP=100 Ammo=100 Expa=45 Morale=50 Lives=0 Grp=0 Crew=2 In=6 
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+end
+support "Renfort bidon GB-Commando"
+ ID=eowebel HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eelite3 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eelite3 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eelite3 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eelite2 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eelite2 HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=piat HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=emortar HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=ehmg HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=emedic HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=esniper HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+ ID=eminer HP=100 Ammo=100 Expa=40 Morale=50 Lives=100 Grp=0 
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

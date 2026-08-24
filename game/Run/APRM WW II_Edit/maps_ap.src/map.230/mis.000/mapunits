@@ -1,0 +1,63 @@
+ ID=lvt1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=7088 V=5264 Dir=23 Owner=3 
+ ID=ka-mi HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=240 V=1392 Dir=23 Owner=3 
+ ID=ka-mi HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=368 V=1680 Dir=18 Owner=3 
+ ID=lvt1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=7088 V=4816 Dir=8 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=208 V=1552 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=208 V=1520 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=208 V=1488 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7024 V=5104 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7024 V=5072 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7024 V=5040 Dir=12 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7080 V=4936 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7096 V=4936 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7112 V=4936 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7112 V=4952 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7096 V=4952 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7080 V=4952 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=440 V=1688 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=472 V=1688 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=456 V=1704 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=472 V=1704 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=440 V=1704 Dir=4 Owner=3 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=456 V=1688 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7128 V=4840 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7128 V=4824 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7128 V=4808 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7112 V=4840 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7112 V=4824 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7112 V=4808 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=280 V=1656 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=296 V=1656 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=280 V=1688 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=296 V=1688 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=296 V=1672 Dir=4 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=280 V=1672 Dir=4 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=368 V=1456 Dir=12 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=336 V=1456 Dir=12 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=304 V=1456 Dir=12 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=272 V=1456 Dir=12 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7152 V=208 Dir=29 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3024 V=496 Dir=29 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7184 V=336 Dir=0 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7216 V=272 Dir=0 Owner=3 
+ ID=c47j HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=304 V=656 Dir=8 Owner=3 
+ ID=ki-76 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=560 V=656 Dir=8 Owner=3 
+ ID=ki-76 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=592 V=1104 Dir=24 Owner=3 
+ ID=g-3m HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=304 V=1104 Dir=24 Owner=3 
+ ID=c47 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7632 V=4592 Dir=8 Owner=3 
+ ID=audax HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=7440 V=4848 Dir=0 Owner=3 
+ ID=o-52 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=7824 V=5136 Dir=16 Owner=3 
+ ID=p_beaufighter HP=100 Ammo=100 Expa=45 Morale=50 Lives=100 Grp=0 Crew=0 U=7920 V=4720 Dir=8 Owner=3 
+ ID=vickers.f HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7024 V=5200 Dir=8 Owner=3 
+ ID=vickers.f HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7056 V=5200 Dir=8 Owner=3 
+ ID=vickers.f HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7088 V=5200 Dir=8 Owner=3 
+ ID=vickers.f HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7120 V=5200 Dir=8 Owner=3 
+ ID=vickers.f HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=2224 V=3888 Dir=8 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=752 V=1296 Dir=3 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=816 V=688 Dir=7 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7824 V=4976 Dir=12 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7376 V=6352 Dir=12 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=6896 V=4592 Dir=16 Owner=3 
+ ID=type.88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=848 V=464 Dir=27 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=1168 V=208 Dir=0 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=1232 V=272 Dir=0 Owner=3 

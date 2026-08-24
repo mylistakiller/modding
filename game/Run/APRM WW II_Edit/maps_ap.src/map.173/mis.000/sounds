@@ -1,0 +1,16 @@
+Name="@german_anthym"
+U=244
+V=2548
+Radius=32
+Worse=0.200000
+MinWait=0
+MaxWait=0
+
+Name="@sheep"
+U=1530
+V=3154
+Radius=32
+Worse=0.200000
+MinWait=0
+MaxWait=0
+

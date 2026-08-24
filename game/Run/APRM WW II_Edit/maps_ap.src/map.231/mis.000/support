@@ -1,0 +1,171 @@
+flag 72,124,16,82,69
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+flag -1,-1,0,-1,-1
+
+support "derp"
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=4 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=matilda HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=4 
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=etankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+ ID=eguner HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end
+support ""
+end

@@ -1,0 +1,139 @@
+ ID=zundapp.ks750 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=2 U=464 V=3728 Dir=31 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=zundapp.ks750 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=2 U=1072 V=3664 Dir=31 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ford_mt HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=2 In=6 U=496 V=3856 Dir=31 Owner=0 
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ford_mt HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=2 In=6 U=496 V=3824 Dir=31 Owner=0 
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=delite2 HP=100 Ammo=100 Expa=40 Morale=-1 Lives=100 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=728 V=3896 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=728 V=3880 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=712 V=3896 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=712 V=3880 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3896 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3880 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=728 V=3832 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=728 V=3816 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=712 V=3832 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=712 V=3816 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3832 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3816 Dir=1 Owner=0 
+ ID=88mmflak HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 In=2 U=336 V=3664 Dir=7 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3176 V=728 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2488 V=1656 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2904 V=1384 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2904 V=1400 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2536 V=1368 Dir=7 Owner=0 
+ ID=dsniper HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3864 V=2120 Dir=7 Owner=0 
+ ID=dsniper HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3176 V=744 Dir=7 Owner=0 
+ ID=dsniper HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2536 V=1352 Dir=7 Owner=0 
+ ID=dsniper HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2888 V=1400 Dir=7 Owner=0 
+ ID=dsniper HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2472 V=1656 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2888 V=1384 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2472 V=1640 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3832 V=2120 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3160 V=744 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2536 V=1336 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=248 V=3512 Dir=7 Owner=0 
+ ID=dhmg HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=248 V=3496 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=216 V=3608 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=216 V=3592 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=200 V=3608 Dir=7 Owner=0 
+ ID=dmedic HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=200 V=3592 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3592 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=680 V=3592 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=680 V=3576 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=696 V=3576 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=600 V=3528 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=584 V=3528 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=728 V=3176 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=712 V=3176 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=584 V=3144 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=600 V=3144 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=424 V=3144 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=440 V=3160 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=408 V=3144 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=392 V=3144 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=488 V=840 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=504 V=856 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=456 V=760 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=440 V=760 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=424 V=760 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=408 V=760 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3816 V=2136 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3832 V=2088 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2632 V=3736 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2584 V=3752 Dir=7 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2584 V=3736 Dir=7 Owner=0 
+ ID=mg42 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 In=2 U=2608 V=3728 Dir=7 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pak44 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 In=2 U=3760 V=2064 Dir=23 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=pak44 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 In=2 U=3632 V=2064 Dir=23 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3784 V=1944 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3800 V=1944 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3752 V=1944 Dir=1 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3736 V=1944 Dir=1 Owner=0 
+ ID=sdkfz.8.flak HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=5 U=2864 V=1712 Dir=25 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=mg42 HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 In=2 U=2992 V=1168 Dir=27 Owner=0 
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dguner HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=ferdinand HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=6 U=2864 V=1584 Dir=24 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=marder_ii HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 Crew=4 U=2608 V=1584 Dir=24 Owner=0 
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+  ID=dtankist HP=100 Ammo=100 Expa=-1 Morale=-1 Lives=0 Grp=-1
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2472 V=808 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2456 V=808 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2664 V=744 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2680 V=744 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3224 V=984 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3224 V=1000 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=3160 V=728 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2872 V=1400 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2840 V=1400 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2856 V=1400 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2824 V=1400 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2856 V=1384 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2872 V=1384 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2840 V=1384 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2824 V=1384 Dir=2 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2536 V=1320 Dir=4 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2456 V=1656 Dir=4 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2440 V=1656 Dir=4 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2456 V=1640 Dir=4 Owner=0 
+ ID=dguner HP=100 Ammo=100 Expa=35 Morale=50 Lives=100 Grp=0 U=2440 V=1640 Dir=4 Owner=0 

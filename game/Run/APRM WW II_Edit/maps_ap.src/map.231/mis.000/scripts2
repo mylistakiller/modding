@@ -1,0 +1,22 @@
+script "New Trigger" size 90
+$mist
+$END
+!
+$srfs
+$P
+#1
+$srfs0
+$resv
+#
+$srfs1
+$flg
+#
+$srfs2
+$L
+#1
+$srfs3
+$T
+#5
+$\\n
+$END
+

@@ -1,0 +1,68 @@
+key_00		41 A
+key_01		5A Z
+key_02		45 E
+key_03		52 R
+key_10		51 Q
+key_11		53 S
+key_12		44 D
+key_13		46 F
+key_20		57 W
+key_21		58 X
+key_22		43 C
+key_23		56 V
+
+key_HM		47 G
+key_HF		54 T
+key_SS		42 B
+key_Give	08 BackSpace
+
+key_cCHAT	1B ESC
+key_bCHAT	0D Enter
+key_sCHAT	0D Enter
+key_aCHAT	53 S
+
+key_LA		20 Space
+key_NU		09 Tab
+key_Pause	13 Pause
+key_Info	C0 ~
+key_TMap    4D M
+key_TMapA       14 CapsLock
+key_g0		30 0
+key_g1		31 1
+key_g2		32 2
+key_g3		33 3
+key_g4		34 4
+key_g5		35 5
+key_g6		36 6
+key_g7		37 7
+key_g8		38 8
+key_g9		39 9
+
+key_l0		70 F1
+key_l1		71 F2
+key_l2		72 F3
+key_l3		73 F4
+key_l4		74 F5
+key_l5		75 F6
+key_l6		76 F7
+key_l7		77 F8
+
+key_MENU	1B ESC
+key_BRIEF	78 F9
+key_QUIT	79 F10
+key_SAVE	7A F11
+key_LOAD	7B F12
+
+key_mn_save			'S'
+key_mn_load			'C'
+key_mn_sound		'O'
+key_mn_graphics		'G'
+key_mn_speed		'V'
+key_mn_objectives	'J'
+key_mn_quit			'Q'
+key_mn_cancel		1B	ESC
+key_mn_ok			0D	Enter
+key_mn_restart		'R'
+key_mn_exit_to_os	'W'
+key_mn_exit_to_menu	'M'
+key_mn_delete		'E'

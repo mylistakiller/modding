@@ -1,0 +1,265 @@
+Player 0
+ name="Player 1"
+ team=0
+ nation=0
+ color=0 252 80
+ plane bomber
+  ID=ju-87r
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=ju-52
+  Number=2
+  Bombs=2
+  Reload=0
+ plane boxer
+  ID=b_ju-52
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=10
+  expa=90
+  ID 0=delite
+  number 0=4
+  ID 1=delite2
+  number 1=4
+  ID 2=dflamer
+  number 2=4
+  ID 3=delite3
+  number 3=4
+ descent 1
+  group=0
+  expa=0
+  ID 0=ammo.box
+  number 0=15
+  ID 1=spare.parts
+  number 1=5
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 1
+ name="Player 2"
+ team=1
+ nation=0
+ color=248 0 0
+ plane bomber
+  ID=ju-87
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=fw-189
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=ju-52
+  Number=2
+  Bombs=2
+  Reload=0
+ plane boxer
+  ID=b_ju-52
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=10
+  expa=60
+  ID 0=desmguner
+  number 0=4
+  ID 1=dhsmguner
+  number 1=4
+  ID 2=dguner
+  number 2=4
+  ID 3=panzerfaust
+  number 3=2
+ descent 1
+  group=0
+  expa=0
+  ID 0=ammo.box
+  number 0=15
+  ID 1=spare.parts
+  number 1=5
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 2
+ name="Player 3"
+ team=2
+ nation=0
+ color=248 252 0
+ plane bomber
+  ID=p631
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=audax
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47b
+  Number=2
+  Bombs=2
+  Reload=0
+ plane boxer
+  ID=b_c47b
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=20
+  expa=85
+  ID 0=felite2
+  number 0=4
+  ID 1=felite
+  number 1=4
+  ID 2=eelite3
+  number 2=4
+  ID 3=piat
+  number 3=4
+ descent 1
+  group=0
+  expa=0
+  ID 0=ammo.box
+  number 0=15
+  ID 1=spare.parts
+  number 1=5
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 3
+ name="Player 4"
+ team=3
+ nation=0
+ color=0 0 120
+ plane bomber
+  ID=p38
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=o-52
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=c47
+  Number=2
+  Bombs=2
+  Reload=0
+ plane boxer
+  ID=b_c47
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=20
+  expa=80
+  ID 0=aelite3
+  number 0=4
+  ID 1=aguner
+  number 1=4
+  ID 2=aflamer
+  number 2=4
+  ID 3=bazooka
+  number 3=4
+ descent 1
+  group=0
+  expa=0
+  ID 0=ammo.box
+  number 0=15
+  ID 1=spare.parts
+  number 1=5
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0
+Player 4
+ name="Player 5"
+ team=3
+ nation=0
+ color=0 252 120
+ plane bomber
+  ID=il-2b
+  Number=0
+  Bombs=0
+  Reload=0
+ plane spy
+  ID=jak-9
+  Number=0
+  Bombs=0
+  Reload=0
+ plane transport
+  ID=li-2
+  Number=2
+  Bombs=2
+  Reload=0
+ plane boxer
+  ID=b_li-2
+  Number=0
+  Bombs=0
+  Reload=0
+ plane interceptor
+  ID=a-6m
+  Number=0
+  Bombs=0
+  Reload=0
+ descent 0
+  group=0
+  expa=70
+  ID 0=relite2
+  number 0=4
+  ID 1=rsniper
+  number 1=4
+  ID 2=rflamer
+  number 2=4
+  ID 3=bazooka
+  number 3=3
+ descent 1
+  group=0
+  expa=0
+  ID 0=ammo.box
+  number 0=15
+  ID 1=spare.parts
+  number 1=5
+  ID 2=
+  number 2=0
+  ID 3=
+  number 3=0
+ planesdir=0

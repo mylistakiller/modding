@@ -1,0 +1,72 @@
+ ID=gmc_v HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3824 V=496 Dir=0 Owner=0 
+ ID=gmc_v HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4752 V=368 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4184 V=136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4200 V=136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4216 V=136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4232 V=136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4248 V=136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4264 V=136 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4184 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4200 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4216 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4232 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4248 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4264 V=152 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4024 V=8040 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4040 V=8040 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4056 V=8040 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4072 V=8040 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4088 V=8040 Dir=0 Owner=0 
+ ID=spare.parts HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4104 V=8040 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4040 V=8024 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4024 V=8024 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4056 V=8024 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4072 V=8024 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4088 V=8024 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4104 V=8024 Dir=0 Owner=0 
+ ID=f_sub HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4112 V=1168 Dir=0 Owner=0 
+ ID=f_sub HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4432 V=1232 Dir=0 Owner=0 
+ ID=f_sub HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=5008 V=1136 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3608 V=616 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4296 V=1256 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4632 V=1288 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4584 V=312 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4232 V=312 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3944 V=6968 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4360 V=6968 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4984 V=7544 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4360 V=7880 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4040 V=7880 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5136 V=752 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4592 V=336 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4240 V=336 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3632 V=624 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4624 V=1264 Dir=0 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4304 V=1232 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=4200 V=7688 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=4200 V=7160 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=3512 V=7448 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=5112 V=760 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=4456 V=536 Dir=0 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=40 Morale=50 Lives=0 Grp=0 U=4424 V=1064 Dir=0 Owner=0 
+ ID=lancia HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3952 V=7792 Dir=0 Owner=0 
+ ID=lancia HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4464 V=7792 Dir=0 Owner=0 
+ ID=lancia HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3568 V=7504 Dir=0 Owner=0 
+ ID=sdkfz.11 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3824 V=6992 Dir=0 Owner=0 
+ ID=sdkfz.11 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4496 V=6992 Dir=0 Owner=0 
+ ID=wirbelwind HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4240 V=7952 Dir=3 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4048 V=7856 Dir=0 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4368 V=7856 Dir=0 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3536 V=7440 Dir=0 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3952 V=6992 Dir=0 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4368 V=6992 Dir=0 Owner=0 
+ ID=37mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5008 V=7536 Dir=0 Owner=0 
+ ID=88mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4176 V=7152 Dir=24 Owner=0 
+ ID=88mmflak HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4176 V=7664 Dir=8 Owner=0 
+ ID=aa_e3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4432 V=1040 Dir=8 Owner=0 
+ ID=aa_e3 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=4432 V=528 Dir=24 Owner=0 
+ ID=moebel_alt HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4432 V=368 Dir=29 Owner=0 
+ ID=p_p631a HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4912 V=688 Dir=16 Owner=0 
+ ID=p_p631a HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4912 V=880 Dir=16 Owner=0 
+ ID=p_g50b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3696 V=7312 Dir=0 Owner=0 
+ ID=p_g50b HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3696 V=7504 Dir=0 Owner=0 

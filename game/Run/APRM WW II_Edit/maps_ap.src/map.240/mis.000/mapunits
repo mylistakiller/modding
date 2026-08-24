@@ -1,0 +1,32 @@
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4464 V=7664 Dir=11 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4144 V=7664 Dir=11 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=3856 V=7664 Dir=11 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4784 V=7312 Dir=8 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4560 V=7312 Dir=8 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4272 V=7312 Dir=8 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=3792 V=7312 Dir=8 Owner=3 
+ ID=b_sm81 HP=100 Ammo=100 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=4016 V=7312 Dir=8 Owner=3 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1072 V=2768 Dir=1 Owner=2 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1072 V=2736 Dir=0 Owner=2 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1072 V=2672 Dir=1 Owner=2 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1200 V=2736 Dir=14 Owner=2 
+ ID=lafti_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1200 V=2672 Dir=14 Owner=2 
+ ID=lancia_amb HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=5456 V=6576 Dir=0 Owner=0 
+ ID=ford_mt HP=100 Ammo=0 Expa=0 Morale=50 Lives=40 Grp=0 Crew=0 U=5776 V=1456 Dir=12 Owner=3 
+ ID=ford_mt HP=100 Ammo=0 Expa=0 Morale=50 Lives=40 Grp=0 Crew=0 U=880 V=3952 Dir=31 Owner=3 
+ ID=horch HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=2032 V=5360 Dir=31 Owner=3 
+ ID=horch HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=4272 V=3920 Dir=31 Owner=3 
+ ID=8cm.mortar HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5840 V=5392 Dir=24 Owner=3 
+ ID=8cm.mortar HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1104 V=5424 Dir=12 Owner=3 
+ ID=mg42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1072 V=5424 Dir=12 Owner=3 
+ ID=mg42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=1040 V=5424 Dir=12 Owner=3 
+ ID=mg42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3312 V=7120 Dir=17 Owner=3 
+ ID=mg42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5840 V=5360 Dir=17 Owner=3 
+ ID=mg42 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=5968 V=5968 Dir=17 Owner=3 
+ ID=wasp HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=5840 V=6032 Dir=24 Owner=3 
+ ID=wasp HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=7536 V=3696 Dir=24 Owner=3 
+ ID=zundapp.ks750 HP=100 Ammo=0 Expa=0 Morale=50 Lives=50 Grp=0 Crew=0 U=2800 V=7056 Dir=31 Owner=3 
+ ID=boot_a HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4792 V=840 Dir=28 Owner=2 
+ ID=boot_a HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=4840 V=840 Dir=28 Owner=2 
+ ID=mack.brit HP=100 Ammo=100 Expa=0 Morale=50 Lives=20 Grp=0 Crew=0 U=4432 V=4880 Dir=5 Owner=0 
+ ID=dingo.jeep HP=100 Ammo=100 Expa=0 Morale=50 Lives=10 Grp=0 Crew=0 U=4432 V=5232 Dir=0 Owner=0 

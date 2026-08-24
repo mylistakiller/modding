@@ -1,0 +1,16 @@
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1544 V=1288 Dir=2 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1032 V=2824 Dir=2 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1928 V=1064 Dir=2 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1904 V=1072 Dir=9 Owner=0 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=432 V=2960 Dir=29 Owner=0 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=424 V=3000 Dir=5 Owner=0 
+ ID=zis-2 HP=100 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1520 V=1296 Dir=12 Owner=0 
+ ID=zis-2 HP=100 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2576 V=1552 Dir=12 Owner=0 
+ ID=pak40 HP=100 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1008 V=2800 Dir=28 Owner=0 
+ ID=pak40 HP=100 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1584 V=3248 Dir=28 Owner=0 
+ ID=pz3mun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2096 V=784 Dir=0 Owner=0 
+ ID=zis-5.med HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2096 V=752 Dir=0 Owner=0 
+ ID=sdkfz.251m HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=784 V=2736 Dir=0 Owner=0 
+ ID=maultier.med HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=784 V=2704 Dir=0 Owner=0 
+ ID=t-34a HP=25 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=2544 V=1136 Dir=11 Owner=0 
+ ID=pzkpfw.3l HP=25 Ammo=50 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1904 V=3728 Dir=25 Owner=0 

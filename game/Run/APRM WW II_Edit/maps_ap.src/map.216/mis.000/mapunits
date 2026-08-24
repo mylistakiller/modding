@@ -1,0 +1,3 @@
+ ID=sdkfz.8.flak HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=1200 V=7824 Dir=25 Owner=3 
+ ID=lafti_l HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=5616 V=5008 Dir=19 Owner=3 
+ ID=faun_ver HP=100 Ammo=100 Expa=0 Morale=50 Lives=25 Grp=0 Crew=0 U=1264 V=4432 Dir=26 Owner=3 

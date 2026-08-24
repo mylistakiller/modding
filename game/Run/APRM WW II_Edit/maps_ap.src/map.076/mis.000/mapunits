@@ -1,0 +1,15 @@
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=624 V=2480 Dir=26 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=688 V=2480 Dir=26 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3792 V=2576 Dir=26 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3856 V=2608 Dir=26 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1168 V=496 Dir=26 Owner=3 
+ ID=japan.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1232 V=560 Dir=26 Owner=3 
+ ID=japan.landing HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1104 V=400 Dir=26 Owner=3 
+ ID=japan.landing HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=752 V=2512 Dir=26 Owner=3 
+ ID=japan.landing HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3920 V=2640 Dir=26 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3280 V=464 Dir=15 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3280 V=528 Dir=15 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1904 V=2608 Dir=15 Owner=3 
+ ID=us.cutter HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1904 V=2672 Dir=15 Owner=3 
+ ID=us.landing HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=1808 V=2544 Dir=15 Owner=3 
+ ID=us.landing HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=3248 V=400 Dir=15 Owner=3 

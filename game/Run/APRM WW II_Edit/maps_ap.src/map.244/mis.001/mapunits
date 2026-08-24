@@ -1,0 +1,66 @@
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=4432 V=2000 Dir=0 Owner=3 
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=10928 V=1424 Dir=0 Owner=3 
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=10928 V=1392 Dir=0 Owner=3 
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=10928 V=1360 Dir=0 Owner=3 
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=4432 V=1968 Dir=0 Owner=3 
+ ID=ka-mi HP=100 Ammo=0 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=4432 V=1936 Dir=0 Owner=3 
+ ID=2592.tk HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4432 V=1904 Dir=0 Owner=3 
+ ID=2592.tk HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4432 V=1872 Dir=0 Owner=3 
+ ID=2592.tk HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10928 V=1328 Dir=0 Owner=3 
+ ID=2592.tk HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10928 V=1296 Dir=0 Owner=3 
+ ID=2598.so-da HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=10928 V=1264 Dir=0 Owner=3 
+ ID=bmw.r-75 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4432 V=1840 Dir=0 Owner=3 
+ ID=bmw.r-75 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4432 V=1808 Dir=0 Owner=3 
+ ID=kurogan HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4432 V=1744 Dir=0 Owner=3 
+ ID=kurogan HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10928 V=1200 Dir=0 Owner=3 
+ ID=bmw.r-75 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10928 V=1168 Dir=0 Owner=3 
+ ID=bmw.r-75 HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10928 V=1136 Dir=0 Owner=3 
+ ID=c47j HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=592 V=880 Dir=0 Owner=3 
+ ID=c47j HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=14640 V=1040 Dir=0 Owner=3 
+ ID=a-6m HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=592 V=528 Dir=0 Owner=3 
+ ID=a-6m HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=14672 V=1392 Dir=0 Owner=3 
+ ID=a-6mb HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=14992 V=1008 Dir=16 Owner=3 
+ ID=a-6mb HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=912 V=528 Dir=16 Owner=3 
+ ID=ki-76 HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=976 V=880 Dir=16 Owner=3 
+ ID=ki-76 HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=15024 V=1360 Dir=16 Owner=3 
+ ID=o-52 HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=15472 V=15024 Dir=16 Owner=3 
+ ID=o-52 HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=1488 V=15248 Dir=16 Owner=3 
+ ID=curtiss.b HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=1392 V=14896 Dir=16 Owner=3 
+ ID=curtiss.b HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=15440 V=14672 Dir=16 Owner=3 
+ ID=curtiss.warhawk HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=1104 V=14896 Dir=0 Owner=3 
+ ID=curtiss.warhawk HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=15024 V=14704 Dir=0 Owner=3 
+ ID=c47b HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=1104 V=15248 Dir=0 Owner=3 
+ ID=c47b HP=100 Ammo=100 Expa=0 Morale=50 Lives=35 Grp=0 Crew=0 U=14992 V=15056 Dir=0 Owner=3 
+ ID=cost_105 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=2704 V=12336 Dir=24 Owner=3 
+ ID=cost_105 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=1616 V=5136 Dir=0 Owner=3 
+ ID=cost_105 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=14160 V=10704 Dir=24 Owner=3 
+ ID=cost_105 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=13136 V=2672 Dir=15 Owner=3 
+ ID=cost_105 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7600 V=3280 Dir=9 Owner=3 
+ ID=cost_105 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=11760 V=7184 Dir=14 Owner=3 
+ ID=cost_105 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7376 V=12272 Dir=23 Owner=3 
+ ID=cost_105 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=3952 V=8336 Dir=0 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7600 V=3120 Dir=0 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=3792 V=8240 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=7344 V=12400 Dir=12 Owner=3 
+ ID=bofors HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 U=11920 V=7184 Dir=12 Owner=3 
+ ID=type.88 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=4208 V=1936 Dir=8 Owner=3 
+ ID=type.88 HP=100 Ammo=0 Expa=0 Morale=50 Lives=100 Grp=0 U=10736 V=1200 Dir=17 Owner=3 
+ ID=81.jap HP=100 Ammo=0 Expa=0 Morale=50 Lives=0 Grp=0 U=10832 V=1040 Dir=23 Owner=3 
+ ID=jrmortar HP=100 Ammo=1 Expa=0 Morale=50 Lives=0 Grp=0 U=10864 V=1040 Dir=23 Owner=3 
+ ID=jrmortar HP=100 Ammo=1 Expa=0 Morale=50 Lives=0 Grp=0 U=4240 V=1680 Dir=23 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=10896 V=1040 Dir=10 Owner=3 
+ ID=mgjap HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=10928 V=1040 Dir=10 Owner=3 
+ ID=type.01 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=10800 V=1040 Dir=23 Owner=3 
+ ID=type.01 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=10768 V=1040 Dir=23 Owner=3 
+ ID=type_88 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=10736 V=1232 Dir=15 Owner=3 
+ ID=type1.kho-ki HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=10736 V=1296 Dir=15 Owner=3 
+ ID=2598.so-da HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=10736 V=1328 Dir=15 Owner=3 
+ ID=type.94 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=10736 V=1360 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10832 V=1200 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10832 V=1264 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10832 V=1328 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=10832 V=1392 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4336 V=1744 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4336 V=1808 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4336 V=1872 Dir=15 Owner=3 
+ ID=ss HP=100 Ammo=100 Expa=0 Morale=50 Lives=100 Grp=0 Crew=0 U=4336 V=1936 Dir=15 Owner=3 

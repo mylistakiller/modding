@@ -1,0 +1,26 @@
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=520 V=408 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=536 V=408 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=536 V=424 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=520 V=424 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7416 V=7480 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7416 V=7464 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7400 V=7480 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7400 V=7464 Dir=0 Owner=3 
+ ID=pz3mun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7504 V=7504 Dir=0 Owner=3 
+ ID=pz3mun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7472 V=7536 Dir=0 Owner=3 
+ ID=pz3mun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=528 V=560 Dir=0 Owner=3 
+ ID=pz3mun HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=528 V=496 Dir=0 Owner=3 
+ ID=kfz8 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=368 V=432 Dir=0 Owner=3 
+ ID=kfz8 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=368 V=400 Dir=0 Owner=3 
+ ID=kfz8 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7184 V=7184 Dir=0 Owner=3 
+ ID=kfz8 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 Crew=0 U=7184 V=7152 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7096 V=7272 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7080 V=7272 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7096 V=7256 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7080 V=7256 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=264 V=504 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=280 V=504 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=280 V=520 Dir=0 Owner=3 
+ ID=ammo.box HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=264 V=520 Dir=0 Owner=3 
+ ID=d-1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=272 V=592 Dir=0 Owner=3 
+ ID=d-1 HP=100 Ammo=100 Expa=0 Morale=50 Lives=0 Grp=0 U=7120 V=7440 Dir=0 Owner=3 

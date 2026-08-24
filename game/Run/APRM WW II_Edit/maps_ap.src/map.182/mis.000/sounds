@@ -1,0 +1,16 @@
+Name="@stalin"
+U=2188
+V=3340
+Radius=32
+Worse=0.550000
+MinWait=0
+MaxWait=0
+
+Name="@english_anthym"
+U=3472
+V=420
+Radius=64
+Worse=0.750000
+MinWait=0
+MaxWait=0
+
