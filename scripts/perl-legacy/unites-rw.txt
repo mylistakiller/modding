@@ -1,0 +1,318 @@
+150mm.japanese - Japanese howitzer (150mm / heavy)
+150mm.longrange - Japanese howitzer (150mm Type 45)
+160mm.mortar - Towable mortar (160mm M-43 / light)
+17p - British anti-tank gun (76mm Mk.V / medium)
+2589.ozu - Type 89B Chi-Ro (57mm Type 90)
+2592 - Type 92 6-Rad (7.7mm & tow very light)
+2592.tk - Type 94 Tokushu Keninsha (7.7mm Type 97)
+2593.agit - Type 91 So-Mo Propaganda
+2593.sumida - Type 91 So-Mo (6.5mm Type 91)
+2595.ho-gi - Type 95 Soko Kidosha (7.7mm Type 97)
+2595.kha-go - Type 95 Ha-Go (37mm Type 98 L/36.7)
+2597.chi-kha - Type 97 Chi-Ha (57mm Type 97 L/18.4)
+2597.sinkhoto - Type 97 Chi-Ha Kai (47mm Type 1 L/48)
+2597.te-ke - Type 97 Te-Ke (37mm Type 94 L/36.7)
+2598.so-da - Caterpillard transport (UE/T98/tow light)
+25p - British howitzer (88mm Mk.II / medium)
+280mm.4caponier - Japanese howitzer (280mm Type 7)
+52-k - Soviet AA (85mm KS-12 / heavy)
+53-k - Soviet anti-tank gun (45mm / light)
+70mmlight - Japanese howitzer (70mm / very light)
+75mount - Antitank gun (75mm M97/T41 / light)
+77fieldgun - Antitank gun (75mm / light)
+82mm - Soviet mortar (82mm PM 41 L/10)
+82mm.smoke - Soviet smoke mortar (82mm PM 41 L/10)
+87t - Howitzer (76mm)
+87t1 - Katyusha BM-13 (132mm)
+87t2 - AA 85mm
+88mmflak - German flak 88mm (heavy)
+8cm.mortar - German mortar (80mm Gr.W.34 L/14.1)
+8cm.smoke - German smoke mortar
+a-6m - A6M Zero (20mm Type 0)
+AB41 - Autoblinda AB41 (20mm Breda)
+aguner - US rifleman (Garand M1)
+ahmg - US heavy gunner (Browning)
+ammo.box - Ammo box
+amortar - US mortar (60mm)
+aofficer - US officer (Colt M1911)
+aonarmor - 
+apilot - US Pilot (Thompson M28)
+art - 
+arthmg - 
+asmguner - US submachine gunner (Thompson M28)
+atanker - American tanker
+atankist - US Crew (Thompson M28)
+audax - Lysander (recoon plane)
+b-17c - B-25 Mitchell (heavy bomber)
+b-17c_agit - B-25 Mitchell (propaganda)
+b1 - B1-Bis (75mm & 47mm)
+ba64 - BA-64B (7.62mm Degtyarev DP-28)
+ba64.agit - BA-64 Propaganda
+bazooka - US Bazooka (M1)
+bedford - Bedford QL (tow heavy)
+bf-109 - Bf 109 E-1 (7.92mm Emil)
+bishop - Propelled artillery Bishop (88mm)
+bm-31 - Androucha BM-31-12 (300mm)
+bmw.r-75 - Type 97 Rikuo Nainen (Molotov & 7.7mm)
+bonarmor - 
+br-18 - Soviet howitzer (305mm Br-18)
+br-5 - Soviet howitzer (203mm B-4 / very heavy)
+breda - Italian machine-gun (7.66mm Breda)
+b_c47 - C-47 Skytrain (cargo plane)
+b_c47b - C-47 Dakota (cargo plane)
+b_c47j - Ki-57 (cargo plane)
+b_ju-52 - Junkers Ju 52 (cargo plane)
+b_li-2 - Lisunov Li-2 (cargo plane)
+c47 - C-47 Skytrain paratrooper
+c47b - C-47 Dakota paratrooper
+c47j - Ki-57 Japanese paratrooper
+calliope - M4 Calliope rocket launcher (114mm M-8)
+chaffee - M24 Chaffee (75mm M6 L/28.5)
+churchill - Mk.IV Churchill IV (57mm)
+churchillr - Churchill Crocodile
+cmedic - Medic
+comet - A34 Comet Mk.I (77mm OQF Mk.II)
+commando - Commando (knives)
+crew - German crew (MP40)
+crusader - Mk.VI Crusader III (57mm Mk.III)
+crus_aa.mkl - AA Mk.VI Crusader III (40mm Bofors)
+crus_aa.mkll - AA Mk.VI Crusader III (2x20mm Oerlikon)
+curtiss.warhawk - P-47 Thunderbolt (12.7mm Browning)
+d-1 - Soviet howitzer (107mm M-30 / heavy)
+daimler.mkl - Daimler Mk.I (40mm QFSA Mk.I L/50)
+dflamer - German flame thrower (FmW41)
+dgeneral - German general
+dguner - German rifleman (Mauser 98k)
+dhmg - German heavy gunner (MG42)
+dingo.jeep - Dingo Mk.II
+dofficer - German officer (Luger P08)
+donarmor - 
+dpilot - German pilot (MP 40)
+ds39 - Soviet. machine gun (7.62mm Goryounov)
+dsmguner - German submachine gunner (MP 40)
+dtanker - German tanker
+dtankist - German crew (MP 40)
+eguner - British rifleman (Lee-Enfield)
+eminer - British sapper (mines & explosives)
+eofficer - British officer (Enfield Mk.I)
+eofftankist - British crew officer (Sten Mk.II)
+eonarmor - 
+epilot - British pilot (Sten Mk.II)
+esmguner - British submachine gunner (Sten Mk.II)
+etanker - French tanker
+etankist - British crew (Sten Mk.II)
+fatg - French anti tank rifleman (SSG36)
+feldhaubitze.18 - German howtizer (105mm le.FH. / medium)
+ferdinand - Sd.Kfz.184 Pz.Jg. Ferdinand (88mm)
+fonarmor - 
+ftankist - French crew (MAS 38)
+fuel - 
+fuel.box - Fuel
+fw-189 - Focke-Wulf 189 (recoon plane)
+fw190 - Focke-Wulf 190 (20mm MG151/20E)
+g-3m - Mitsubishi G4M (heavy bomber)
+g-3m.agit - Mitsubishi G4M (propaganda)
+gats - German antitank rifleman (PzB39)
+gaz.67.jeep - GAZ 67B
+german.cutter - German gunboat
+german.landing - German landing boat
+gmc.353.med - Ambulance Dodge WC64 (tow medium)
+gmc.cckw.353 - Transport GMC CCKW-353 (tow heavy)
+greyhound - M8 Greyhound (37mm)
+greyhound.agit - M8 Greyhound (propaganda)
+he-111 - Dornier Do 17 (heavy bomber)
+hellcat - M18 Hellcat (76mm M1A1 L/52)
+hetzer - SdKfz138/2 Jagdpanzer 38(t) (75mm)
+he_111_agit - Dornier Do 17 (propaganda)
+ho-ni - Type 1 Ho-Ni I (75mm Type 3)
+ho-ni.ll - Self propelled artillery Ho-Ni II (105mm)
+ho-ni.lll - Type 3 Ho-Ni III (75mm Type 3)
+ho-ro - Self propelled artillery Ho-Ro (150mm)
+horch - Limosine Horch-750
+hotchkiss - French machine gun (7.5mm Reibel)
+HOUSE - 
+humber - Humber Mk.I
+humber.agit - Humber LRC (propaganda)
+hummel - Self propelled artillery Hummel (150mm)
+hurricane.mk-l - Hawker Typhoon ()
+i-153 - Petlyakov Pe-2 (recoon plane)
+il-2 - Il-2 Sturmovik ()
+ionarmor - 
+is-2 - JS-2 Mod.44 (122mm)
+isu-152 - ISU-152 Mod.44 (152mm ML-20S)
+itankist - Italian crew (Beretta M38A)
+jagdpanther - Sd.Kfz.173 Jagdpanther (88mm Pak43/3 L/71)
+jagdtiger - Sd.Kfz.186 Jagdtiger (128mm Pak44 L/55)
+jak-3 - Yak-9 (20mm ShVAK L/62.2)
+japan.cutter - Japanese gunboat
+japan.landing - Japanese landing boat
+jats - Japanese anti tank rifleman (Type 97)
+jgeneral - Japanese general (Nambu Type 14)
+jguner - Japanese rifleman (Type 38)
+jhmg - Japanese heavy gunner (Type 96)
+jmortar - Japanese mortar (50mm)
+jofficer - Japanese officer (Nambu Type 14)
+jonarmor - 
+jpilot - Japanese pilot (Type 100 M40)
+jsmguner - Japanse submachine gunner (Type 100 M40)
+jtanker - Japanese tanker
+jtankist - Japanese crew (Type 100 M40)
+ju-52 - Junkers Ju 52 (paratrooper)
+ju-87 - Ju 87 D-3 Stuka (bomber)
+kamikaze - Japanese Kamikaze (explosive)
+kamikaze.boat - Kamikazer boat
+kanone.18 - German howitzer (170mm K72 / very heavy)
+kha-to - Self propelled artillery Ha-To (300mm)
+ki-27 - Ki-84 Hayate (20mm Ho-5)
+ki-76 - C6N Saiun (recoon plane)
+ki-to - AA Type 98 Taikuu Sensha (4x20mm)
+koenigstiger - Sd.Kfz.182 Pz.VI/B Tigre II (88mm Henschel)
+kurogan - Type 95 Kurogan
+kv - KV-1B Mod.41 (76mm)
+kv-2 - Self propelled artillery KV-2A (152mm)
+l6.40 - L6/40 (20mm Breda)
+la-5 - Mig-3 (7.62mm ShKAS)
+li-2 - Lisunov Li-2 (paratrooper)
+locomotive - Train
+locomotive2 - Armoured train
+m1.87 - Armoured Wagon M1/87
+m1.t-34 - Armoured wagon M1/T-34
+m15.42 - Carro Armato M15/42 (47mm 47/40)
+m16 - AA M16 GMC (4x12.7mm Browning)
+m1a1 - US howitzer (75mm M1A1 / light)
+m3a1 - US anti tank gun (37mm M3A1 / very light)
+m4 - US Support truck M4 13t
+m5 - Soviet support truck M5 13t
+m59 - US howitzer Long Tom (155mm M1A1 / very heavy)
+mack.nr - Transport Mack NO (tow very light)
+matilda - Mk.IIA Matilda II (40mm)
+maultier - Transport Opel Maultier (tow medium)
+maultier.med - Ambulance Opel Blitz (tow medium)
+mbv2 - Armoured Wagon MBV-2
+mbv2t - Howitzer 76mm
+mg34 - Machine gun Germany (7.92mm MG34)
+mg40 - Machine gun US (7.62mm Browning)
+mk-lv.mosquito - DH.98 Mosquito (heavy bomber)
+model.93 - Limosine Type 93 Sumida
+moebelwagen - AA SdKfz.161/3 Mobelwagen (37mm FlaK43)
+morris.c8 - British support truck Morris Quad C8
+mosquito.agit - DH.98 Mosquito (propaganda)
+n1k1 - Kawasaki Ki-61 Hien (12.7mm)
+nebelwerfer - Nebelwerfer 41 (150mm)
+nebelwerfer.42 - Nebelwerfer (150mm Wurfgranate 41)
+o-52 - L-3 Grasshopper (recoon plane)
+ot-26 - OT-130 Mod.37 (LF)
+ot-34 - ATO-41 (76mm & LF)
+p-51 - P-51 Mustang (12.7mm Browning)
+p40 - Carro Pesante P26/40 (75mm 75/34)
+pak35-36 - German anti tank gun (37mm / very light)
+pak38l-60 - German anti tank gun (50mm / light)
+pak40 - German anti tank gun (75mm / medium)
+panther - Sd.Kfz.171 Pz.V Panther/F (75mm KwK42)
+panzerfaust - German soldier with Panzerschreck (RPzB54)
+para - 
+pe-2 - Petlyakov Pe-2 (heavy bomber)
+pe-2_agit - Petlyakov Pe-2 (propaganda)
+pershing - M26 Pershing (90mm M3)
+piat - British soldier with PIAT
+pzkpfw.35(t) - Aufklarungspanzer 38(t) (20mm)
+pzkpfw.38(t) - Panzerkampfwagen 38(t)/E (37mm)
+pzkpfw.l - Sd.Kfz.101 Pz.I/B (7.92mm MG34)
+pzkpfw.ll - Sd.Kfz.123 Pz.II/L Luchs (20mm KwK38)
+pzkpfw.lll - Sd.Kfz.141/1 Pz.III/J (50mm KwK39)
+pzkpfw.lv.f - Sd.Kfz.161 Pz.IV/F (75mm KwK37)
+pzkpfw.lv.j - Sd.Kfz.161/1 Pz.IV/J (75mm KwK40)
+ramp - 
+rats - Soviet anti tank rifleman (PTRD)
+rgeneral - Soviet general (Tokarev TT M33/34)
+rguner - Soviet rifleman (Mosin-Nagant M91/30)
+rhmg - Soviet heavy gunner (Degtyarev)
+rmortar - Soviet mortar (50mm)
+rofficer - Soviet officier (Tokarev TT M33/34)
+ronarmor - Infantry
+rpilot - Soviet Pilot (PPSh-41G)
+rsmguner - Soviet submachine gunner (PPSh-41G)
+rtanker - Soviet tanker
+rtankist - Soviet crew (PPSh-41G)
+s35 - Somua S-35 (47mm SA35 L/34)
+sdkfz.11 - German support truck Sd.Kfz.11 le.Zg.Kw
+sdkfz.11t - Transport Sd.Kfz.6 (tow heavy)
+sdkfz.222 - Sd.Kfz.221 le.Pz.Sp.Wg. (propaganda)
+sdkfz.231 - Sd.Kfz.231/6-Rad s.Pz.Sp.Wg. (20mm KwK30)
+sdkfz.231-8 - Sd.Kfz.234/2 Puma (50mm KwK39/1)
+sdkfz.250.1 - Sd.Kfz.250/9 (20mm KwK38)
+sdkfz.251 - Sd.Kfz.251/1 (7.92mm & tow heavy)
+sdkfz.303 - Sd.Kfz.303 Ladungstrager Goliath
+sdkfz.7.flak - AA Sd.Kfz.7/1 (4x20mm Flak38 L/112.5)
+sherman.jumbo - Sherman M4A3E2 Jumbo (75mm M3)
+sherman.lll - Sherman M4A3(76)W HVSS (76mm M1)
+sherman.v - Sherman M4A3(76)W (76mm)
+sherman_m4a1 - Sherman M4A1 (75mm M3)
+ship_e - 
+ship_e_turret - 
+ship_e_turret1 - 
+ship_e_turret2 - 
+ship_j - 
+ship_j_turret - 
+ship_j_turret1 - 
+ship_l - 
+ship_l_turret - 
+ship_l_turret1 - 
+ship_l_turret2 - 
+ship_v186 - 
+ship_v186_t - 
+ship_v186_t1 - 
+ship_v186_t2 - 
+sniper - Sniper
+soviet.cutter - Soviet gunboat
+soviet.landing - Soviet landing boat
+spare.parts - Spare parts
+spitfire.mk-xvl - Supermarine Spitfire (20mm)
+ss - Japanese support truck Soukou Sagyou Ki
+steyerzug - Onrail tank Steyer
+steyerzug1 - Onrail AA Steyer
+steyerzug1t - AA Turret (20mm Flak38)
+steyerzugt - Anti tank gun (50mm PaK38)
+stuart - M5A1 (37mm M6 L/53.5)
+stug40g - Sd.Kfz.142/1 StuG.III/F (75mm StuK40)
+sturmtiger - Rockets mortar Sturmtiger (380mm)
+su-85 - SU-85 Mod.43 (85mm D-5S M43)
+t-26 - T-26B Mod.33 (45mm 20K)
+t-28 - T-28B Mod.38 (76mm L-10)
+t-34 - T-34/76B Mod.41 (76mm F-34)
+t-34-85 - T-34/85 Mod.44 (85mm ZIS)
+t-34t - Antitank gun (76mm F-34)
+t-35 - T-35A Mod.35 (76mm & 45mm)
+t-70 - T-70 Mod.42 (45mm)
+t-90 - AA T-60 Mod.42 (2x12.7mm)
+tankwagon - 
+tetrarch - Mk.VII Tetrarch I (40mm QFSA MK.I)
+tiger - Sd.Kfz.181 Pz.VI/E Tigre (88mm KwK36 L/56)
+tiz-am-600 - TIZ-AM-600 (Molotov & 7.62mm)
+tm1.180 - Howitzer on rail TM-1-180
+tm1.180t - Howitzer (155mm)
+tm3.12 - Howitzer on rail TM-3-12
+tm3.12t - Howitzer (305mm)
+type.01 - Japanese antitank gun (Type 1 / light)
+type.88 - AA gun (75mm L55/Type 5 / medium)
+type.94 - Type 94 Isuzu transport (tow heavy)
+type1.chi-khe - Type 1 Chi-He (47mm Type 1 L/48)
+type1.kho-ki - Ho-Ki transport (tow very heavy)
+type3.chi-noo - Type 3 Chi-Nu (75mm Type 3)
+universal.mkll - Universal Carrier (7.7mm & medium towing)
+us.cutter - US gunboat (37mm M6 L/53.5)
+us.landing - US landing craft
+v2 - V2
+valentine - Mk.III Valentine III (40mm OQF Mk.X)
+vickers.f - Brit. machine gun (7.7mm Vickers)
+vwcubel.jeep - Kubelwagen
+walking.stuka - Wurfrahmen 40 (280/320mm)
+wirbelwind - AA Sd.Kfz.161/4 Wirbelwind (4x20mm Flak38)
+wmb_leased.jeep - Jeep Willys MB (lend-lease)
+wolverine - M10 Wolverine (76mm M7)
+wyllis.mb.jeep - Jeep Willys MB
+zis-3 - Soviet. antitank gun (76mm / light)
+zis-5 - ZIS-5 transport (medium towing)
+zis-5.med - ZIS-44 ambulance (medium towing)
+zundapp.ks750 - Zundapp KS-750 (Molotov & 7.92mm)
+__testportal - 
