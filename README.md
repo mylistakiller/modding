@@ -49,6 +49,16 @@ documentation du format `.aps` a été établie, et l'outillage a besoin d'eux p
 L'installation n'est donc pas complète : récupérez ce fichier depuis votre propre copie du jeu
 pour la reconstituer.
 
+## Contribuer
+
+Les issues, les discussions et les pull requests sont ouvertes. Voir
+[`CONTRIBUTING.md`](CONTRIBUTING.md) pour ce qui intéresse ce dépôt et ce qui n'y a pas sa place.
+
+## Licence
+
+MIT, pour le travail de l'auteur : `tools/`, `scripts/` et `docs/`. Le dossier `game/` en est
+exclu, ses fichiers appartenant aux auteurs et éditeurs du jeu. Voir [`LICENSE`](LICENSE).
+
 ## Ce que ce dépôt ne contient pas
 
 Aucun binaire tiers d'outillage. `SUE.EXE`, `UNSUE.EXE` et les autres outils communautaires

@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 Jean-Valère Cossu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+PÉRIMÈTRE / SCOPE
+
+Cette licence couvre uniquement le travail de l'auteur : les outils de `tools/`,
+les scripts de `scripts/`, et la documentation de `docs/`.
+
+Elle ne couvre PAS le contenu de `game/`, qui reproduit les fichiers d'une
+installation de Hidden Stroke II. Ces fichiers appartiennent à leurs auteurs et
+éditeurs respectifs, et sont présents ici à titre de référence pour la
+rétro-ingénierie et l'interopérabilité.
+
+This licence covers only the author's own work: the tools in `tools/`, the
+scripts in `scripts/`, and the documentation in `docs/`. It does NOT cover the
+contents of `game/`, which reproduce a Hidden Stroke II installation. Those
+files belong to their respective authors and publishers.
